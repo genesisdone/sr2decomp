@@ -1,0 +1,5071 @@
+[
+ {
+  "name": "FUN_004020f0",
+  "address": "0x004020F0",
+  "bytes": 103,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1882
+ },
+ {
+  "name": "FUN_00404a20",
+  "address": "0x00404A20",
+  "bytes": 71,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1349
+ },
+ {
+  "name": "FUN_004067b0",
+  "address": "0x004067B0",
+  "bytes": 41,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1302
+ },
+ {
+  "name": "FUN_0040b790",
+  "address": "0x0040B790",
+  "bytes": 31,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3142
+ },
+ {
+  "name": "FUN_0040ea60",
+  "address": "0x0040EA60",
+  "bytes": 33,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_0040ea60.c"
+ },
+ {
+  "name": "FUN_0040eaf0",
+  "address": "0x0040EAF0",
+  "bytes": 49,
+  "gate": "npc-ai-readable",
+  "source": "src/game/npc_ai_trials/FUN_0040eaf0.c"
+ },
+ {
+  "name": "FUN_004181a0",
+  "address": "0x004181A0",
+  "bytes": 34,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1124
+ },
+ {
+  "name": "FUN_0041ca70",
+  "address": "0x0041CA70",
+  "bytes": 43,
+  "gate": "npc-ai-readable",
+  "source": "src/game/npc_ai_trials/FUN_0041ca70.c"
+ },
+ {
+  "name": "FUN_0041cb40",
+  "address": "0x0041CB40",
+  "bytes": 51,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_0041cb40.c"
+ },
+ {
+  "name": "FUN_00421dc0",
+  "address": "0x00421DC0",
+  "bytes": 74,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 740
+ },
+ {
+  "name": "FUN_00427300",
+  "address": "0x00427300",
+  "bytes": 215,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2824
+ },
+ {
+  "name": "FUN_004363a0",
+  "address": "0x004363A0",
+  "bytes": 15,
+  "gate": "npc-ai-rea-callbacks-readable",
+  "source": "src/game/npc_ai_rea_callbacks_trials/FUN_004363a0.c"
+ },
+ {
+  "name": "FUN_00438710",
+  "address": "0x00438710",
+  "bytes": 103,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 965
+ },
+ {
+  "name": "FUN_0043f9c0",
+  "address": "0x0043F9C0",
+  "bytes": 27,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1281
+ },
+ {
+  "name": "FUN_004543a0",
+  "address": "0x004543A0",
+  "bytes": 58,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 725
+ },
+ {
+  "name": "FUN_004550d0",
+  "address": "0x004550D0",
+  "bytes": 41,
+  "gate": "npc-ai-readable",
+  "source": "src/game/npc_ai_trials/FUN_004550d0.c"
+ },
+ {
+  "name": "FUN_0045a830",
+  "address": "0x0045A830",
+  "bytes": 63,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1211
+ },
+ {
+  "name": "FUN_00479710",
+  "address": "0x00479710",
+  "bytes": 34,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1506
+ },
+ {
+  "name": "FUN_00479a50",
+  "address": "0x00479A50",
+  "bytes": 45,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1611
+ },
+ {
+  "name": "FUN_00479a80",
+  "address": "0x00479A80",
+  "bytes": 54,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1710
+ },
+ {
+  "name": "FUN_00479d10",
+  "address": "0x00479D10",
+  "bytes": 34,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1501
+ },
+ {
+  "name": "FUN_0047b860",
+  "address": "0x0047B860",
+  "bytes": 22,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1458
+ },
+ {
+  "name": "FUN_0047ced0",
+  "address": "0x0047CED0",
+  "bytes": 90,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2173
+ },
+ {
+  "name": "FUN_004803f0",
+  "address": "0x004803F0",
+  "bytes": 73,
+  "gate": "npc-ai-readable",
+  "source": "src/game/npc_ai_trials/FUN_004803f0.c"
+ },
+ {
+  "name": "FUN_004892e0",
+  "address": "0x004892E0",
+  "bytes": 45,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1626
+ },
+ {
+  "name": "FUN_00495240",
+  "address": "0x00495240",
+  "bytes": 101,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_00495240.c"
+ },
+ {
+  "name": "FUN_004998e0",
+  "address": "0x004998E0",
+  "bytes": 43,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1603
+ },
+ {
+  "name": "FUN_0049d320",
+  "address": "0x0049D320",
+  "bytes": 45,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1312
+ },
+ {
+  "name": "FUN_0049ee60",
+  "address": "0x0049EE60",
+  "bytes": 26,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 1001
+ },
+ {
+  "name": "FUN_004a7a50",
+  "address": "0x004A7A50",
+  "bytes": 41,
+  "gate": "npc-ai-rea-readable",
+  "source": "src/game/npc_ai_rea_trials/FUN_004a7a50.c"
+ },
+ {
+  "name": "FUN_004a7c60",
+  "address": "0x004A7C60",
+  "bytes": 41,
+  "gate": "npc-ai-rea-readable",
+  "source": "src/game/npc_ai_rea_trials/FUN_004a7c60.c"
+ },
+ {
+  "name": "FUN_004a96a0",
+  "address": "0x004A96A0",
+  "bytes": 42,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_004a96a0.c"
+ },
+ {
+  "name": "FUN_004b1eb0",
+  "address": "0x004B1EB0",
+  "bytes": 42,
+  "gate": "npc-ai-rea-readable",
+  "source": "src/game/npc_ai_rea_trials/FUN_004b1eb0.c"
+ },
+ {
+  "name": "FUN_004b26e0",
+  "address": "0x004B26E0",
+  "bytes": 41,
+  "gate": "npc-ai-readable",
+  "source": "src/game/npc_ai_trials/FUN_004b26e0.c"
+ },
+ {
+  "name": "FUN_004c8b30",
+  "address": "0x004C8B30",
+  "bytes": 75,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_004c8b30.c"
+ },
+ {
+  "name": "FUN_004cd150",
+  "address": "0x004CD150",
+  "bytes": 65,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_004cd150.c"
+ },
+ {
+  "name": "FUN_004d1900",
+  "address": "0x004D1900",
+  "bytes": 24,
+  "gate": "first-mission-readable",
+  "source": "src/game/first_mission_trials/FUN_004d1900.c"
+ },
+ {
+  "name": "FUN_004d1920",
+  "address": "0x004D1920",
+  "bytes": 24,
+  "gate": "first-mission-readable",
+  "source": "src/game/first_mission_trials/FUN_004d1920.c"
+ },
+ {
+  "name": "FUN_004f5750",
+  "address": "0x004F5750",
+  "bytes": 54,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3528
+ },
+ {
+  "name": "FUN_004f5d90",
+  "address": "0x004F5D90",
+  "bytes": 227,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 1345
+ },
+ {
+  "name": "FUN_004f5e80",
+  "address": "0x004F5E80",
+  "bytes": 154,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 1246
+ },
+ {
+  "name": "FUN_004f5f20",
+  "address": "0x004F5F20",
+  "bytes": 188,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 1215
+ },
+ {
+  "name": "FUN_004f5fe0",
+  "address": "0x004F5FE0",
+  "bytes": 37,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 41
+ },
+ {
+  "name": "FUN_004f6010",
+  "address": "0x004F6010",
+  "bytes": 49,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 100
+ },
+ {
+  "name": "FUN_004f6050",
+  "address": "0x004F6050",
+  "bytes": 117,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 512
+ },
+ {
+  "name": "FUN_004f60d0",
+  "address": "0x004F60D0",
+  "bytes": 45,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 107
+ },
+ {
+  "name": "FUN_004f6100",
+  "address": "0x004F6100",
+  "bytes": 49,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 114
+ },
+ {
+  "name": "FUN_004f6140",
+  "address": "0x004F6140",
+  "bytes": 37,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 48
+ },
+ {
+  "name": "FUN_004f66f0",
+  "address": "0x004F66F0",
+  "bytes": 45,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 121
+ },
+ {
+  "name": "FUN_004f6720",
+  "address": "0x004F6720",
+  "bytes": 49,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 128
+ },
+ {
+  "name": "FUN_004f6760",
+  "address": "0x004F6760",
+  "bytes": 41,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 55
+ },
+ {
+  "name": "FUN_004f6790",
+  "address": "0x004F6790",
+  "bytes": 97,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 137
+ },
+ {
+  "name": "FUN_004f6800",
+  "address": "0x004F6800",
+  "bytes": 162,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1425
+ },
+ {
+  "name": "FUN_004f68b0",
+  "address": "0x004F68B0",
+  "bytes": 45,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 93
+ },
+ {
+  "name": "FUN_004f68e0",
+  "address": "0x004F68E0",
+  "bytes": 226,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 1295
+ },
+ {
+  "name": "FUN_004f6e50",
+  "address": "0x004F6E50",
+  "bytes": 69,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 688
+ },
+ {
+  "name": "FUN_004f70d0",
+  "address": "0x004F70D0",
+  "bytes": 56,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 663
+ },
+ {
+  "name": "FUN_004f78c0",
+  "address": "0x004F78C0",
+  "bytes": 235,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2936
+ },
+ {
+  "name": "FUN_004f7af0",
+  "address": "0x004F7AF0",
+  "bytes": 208,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2969
+ },
+ {
+  "name": "FUN_004faa90",
+  "address": "0x004FAA90",
+  "bytes": 74,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 1389
+ },
+ {
+  "name": "FUN_004faae0",
+  "address": "0x004FAAE0",
+  "bytes": 28,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_004faae0.c"
+ },
+ {
+  "name": "FUN_004fb0f0",
+  "address": "0x004FB0F0",
+  "bytes": 97,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 189
+ },
+ {
+  "name": "FUN_004fbd20",
+  "address": "0x004FBD20",
+  "bytes": 17,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 11
+ },
+ {
+  "name": "FUN_004fbd40",
+  "address": "0x004FBD40",
+  "bytes": 17,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 14
+ },
+ {
+  "name": "FUN_004fbd60",
+  "address": "0x004FBD60",
+  "bytes": 17,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 17
+ },
+ {
+  "name": "FUN_004fbd80",
+  "address": "0x004FBD80",
+  "bytes": 17,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 20
+ },
+ {
+  "name": "FUN_004fbda0",
+  "address": "0x004FBDA0",
+  "bytes": 17,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 23
+ },
+ {
+  "name": "FUN_004fbdc0",
+  "address": "0x004FBDC0",
+  "bytes": 17,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 26
+ },
+ {
+  "name": "FUN_00500230",
+  "address": "0x00500230",
+  "bytes": 53,
+  "gate": "player-movement dual-linked switch C",
+  "source": "src/game/player_movement_readable_switches.c",
+  "line": 243
+ },
+ {
+  "name": "FUN_0050a890",
+  "address": "0x0050A890",
+  "bytes": 38,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2021
+ },
+ {
+  "name": "FUN_0050ab00",
+  "address": "0x0050AB00",
+  "bytes": 47,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2610
+ },
+ {
+  "name": "FUN_0050ede0",
+  "address": "0x0050EDE0",
+  "bytes": 73,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1804
+ },
+ {
+  "name": "FUN_00524fa0",
+  "address": "0x00524FA0",
+  "bytes": 69,
+  "gate": "traffic-rea-private-calls_d",
+  "source": "src/game/traffic_rea_private_trials/calls_d/FUN_00524fa0.c"
+ },
+ {
+  "name": "FUN_0053c4d0",
+  "address": "0x0053C4D0",
+  "bytes": 32,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 705
+ },
+ {
+  "name": "FUN_0053d240",
+  "address": "0x0053D240",
+  "bytes": 56,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 1060
+ },
+ {
+  "name": "FUN_005483a0",
+  "address": "0x005483A0",
+  "bytes": 24,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_005483a0.c"
+ },
+ {
+  "name": "FUN_00555d40",
+  "address": "0x00555D40",
+  "bytes": 27,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_00555d40.c"
+ },
+ {
+  "name": "FUN_00555d60",
+  "address": "0x00555D60",
+  "bytes": 51,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_00555d60.c"
+ },
+ {
+  "name": "FUN_00556610",
+  "address": "0x00556610",
+  "bytes": 84,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_00556610.c"
+ },
+ {
+  "name": "FUN_00558d90",
+  "address": "0x00558D90",
+  "bytes": 27,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1982
+ },
+ {
+  "name": "FUN_0055adf0",
+  "address": "0x0055ADF0",
+  "bytes": 51,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2988
+ },
+ {
+  "name": "FUN_0055f6f0",
+  "address": "0x0055F6F0",
+  "bytes": 57,
+  "gate": "npc-ai-readable",
+  "source": "src/game/npc_ai_trials/FUN_0055f6f0.c"
+ },
+ {
+  "name": "FUN_00561db0",
+  "address": "0x00561DB0",
+  "bytes": 46,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 268
+ },
+ {
+  "name": "FUN_00566430",
+  "address": "0x00566430",
+  "bytes": 24,
+  "gate": "first-mission-readable",
+  "source": "src/game/first_mission_trials/FUN_00566430.c"
+ },
+ {
+  "name": "FUN_00567070",
+  "address": "0x00567070",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00567070.c"
+ },
+ {
+  "name": "FUN_00567080",
+  "address": "0x00567080",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00567080.c"
+ },
+ {
+  "name": "FUN_00567090",
+  "address": "0x00567090",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00567090.c"
+ },
+ {
+  "name": "FUN_005670a0",
+  "address": "0x005670A0",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_005670a0.c"
+ },
+ {
+  "name": "FUN_005670b0",
+  "address": "0x005670B0",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_005670b0.c"
+ },
+ {
+  "name": "FUN_005670c0",
+  "address": "0x005670C0",
+  "bytes": 1,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_005670c0.c"
+ },
+ {
+  "name": "FUN_005670d0",
+  "address": "0x005670D0",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_005670d0.c"
+ },
+ {
+  "name": "FUN_005670e0",
+  "address": "0x005670E0",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_005670e0.c"
+ },
+ {
+  "name": "FUN_005670f0",
+  "address": "0x005670F0",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_005670f0.c"
+ },
+ {
+  "name": "FUN_00567100",
+  "address": "0x00567100",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00567100.c"
+ },
+ {
+  "name": "FUN_00567110",
+  "address": "0x00567110",
+  "bytes": 7,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00567110.c"
+ },
+ {
+  "name": "FUN_00567120",
+  "address": "0x00567120",
+  "bytes": 6,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00567120.c"
+ },
+ {
+  "name": "FUN_00567730",
+  "address": "0x00567730",
+  "bytes": 7,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00567730.c"
+ },
+ {
+  "name": "FUN_00567750",
+  "address": "0x00567750",
+  "bytes": 6,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00567750.c"
+ },
+ {
+  "name": "FUN_0056bb30",
+  "address": "0x0056BB30",
+  "bytes": 82,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1856
+ },
+ {
+  "name": "FUN_0056c270",
+  "address": "0x0056C270",
+  "bytes": 51,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2078
+ },
+ {
+  "name": "FUN_005759d0",
+  "address": "0x005759D0",
+  "bytes": 35,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_005759d0.c"
+ },
+ {
+  "name": "FUN_00580780",
+  "address": "0x00580780",
+  "bytes": 41,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_00580780.c"
+ },
+ {
+  "name": "FUN_00598530",
+  "address": "0x00598530",
+  "bytes": 34,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_00598530.c"
+ },
+ {
+  "name": "FUN_005be840",
+  "address": "0x005BE840",
+  "bytes": 77,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_005be840.c"
+ },
+ {
+  "name": "FUN_005c2930",
+  "address": "0x005C2930",
+  "bytes": 36,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3078
+ },
+ {
+  "name": "FUN_005c2960",
+  "address": "0x005C2960",
+  "bytes": 36,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3092
+ },
+ {
+  "name": "FUN_005f7da0",
+  "address": "0x005F7DA0",
+  "bytes": 51,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 402
+ },
+ {
+  "name": "FUN_00601930",
+  "address": "0x00601930",
+  "bytes": 61,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3461
+ },
+ {
+  "name": "FUN_00603250",
+  "address": "0x00603250",
+  "bytes": 66,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 840
+ },
+ {
+  "name": "FUN_00603e30",
+  "address": "0x00603E30",
+  "bytes": 23,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 699
+ },
+ {
+  "name": "FUN_00604580",
+  "address": "0x00604580",
+  "bytes": 38,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 1187
+ },
+ {
+  "name": "FUN_006122d0",
+  "address": "0x006122D0",
+  "bytes": 27,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1087
+ },
+ {
+  "name": "FUN_006123c0",
+  "address": "0x006123C0",
+  "bytes": 81,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 422
+ },
+ {
+  "name": "FUN_00625550",
+  "address": "0x00625550",
+  "bytes": 60,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 622
+ },
+ {
+  "name": "FUN_00626bf0",
+  "address": "0x00626BF0",
+  "bytes": 83,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 1126
+ },
+ {
+  "name": "FUN_00634a30",
+  "address": "0x00634A30",
+  "bytes": 63,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 255
+ },
+ {
+  "name": "FUN_00634ad0",
+  "address": "0x00634AD0",
+  "bytes": 21,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_00634ad0.c"
+ },
+ {
+  "name": "FUN_00667300",
+  "address": "0x00667300",
+  "bytes": 83,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_00667300.c"
+ },
+ {
+  "name": "FUN_00667cb0",
+  "address": "0x00667CB0",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00667cb0.c"
+ },
+ {
+  "name": "FUN_00667cc0",
+  "address": "0x00667CC0",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00667cc0.c"
+ },
+ {
+  "name": "FUN_00667cd0",
+  "address": "0x00667CD0",
+  "bytes": 3,
+  "gate": "npc-ai-rea-readable",
+  "source": "src/game/npc_ai_rea_trials/FUN_00667cd0.c"
+ },
+ {
+  "name": "FUN_00667ce0",
+  "address": "0x00667CE0",
+  "bytes": 6,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00667ce0.c"
+ },
+ {
+  "name": "FUN_00667cf0",
+  "address": "0x00667CF0",
+  "bytes": 1,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00667cf0.c"
+ },
+ {
+  "name": "FUN_00667d00",
+  "address": "0x00667D00",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00667d00.c"
+ },
+ {
+  "name": "FUN_00667d10",
+  "address": "0x00667D10",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00667d10.c"
+ },
+ {
+  "name": "FUN_00667d20",
+  "address": "0x00667D20",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00667d20.c"
+ },
+ {
+  "name": "FUN_00669960",
+  "address": "0x00669960",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00669960.c"
+ },
+ {
+  "name": "FUN_00669970",
+  "address": "0x00669970",
+  "bytes": 35,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00669970.c"
+ },
+ {
+  "name": "FUN_00669b50",
+  "address": "0x00669B50",
+  "bytes": 6,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00669b50.c"
+ },
+ {
+  "name": "FUN_00678590",
+  "address": "0x00678590",
+  "bytes": 1,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00678590.c"
+ },
+ {
+  "name": "FUN_006785a0",
+  "address": "0x006785A0",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_006785a0.c"
+ },
+ {
+  "name": "FUN_006785b0",
+  "address": "0x006785B0",
+  "bytes": 1,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_006785b0.c"
+ },
+ {
+  "name": "FUN_006785c0",
+  "address": "0x006785C0",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_006785c0.c"
+ },
+ {
+  "name": "FUN_00678810",
+  "address": "0x00678810",
+  "bytes": 6,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00678810.c"
+ },
+ {
+  "name": "FUN_006794d0",
+  "address": "0x006794D0",
+  "bytes": 24,
+  "gate": "npc-ai-rea-next-a-direct-readable",
+  "source": "src/game/npc_ai_rea_next_a_direct_trials/FUN_006794d0.c"
+ },
+ {
+  "name": "FUN_0067a120",
+  "address": "0x0067A120",
+  "bytes": 6,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_0067a120.c"
+ },
+ {
+  "name": "FUN_00680e00",
+  "address": "0x00680E00",
+  "bytes": 55,
+  "gate": "npc-ai-readable",
+  "source": "src/game/npc_ai_trials/FUN_00680e00.c"
+ },
+ {
+  "name": "FUN_00683d20",
+  "address": "0x00683D20",
+  "bytes": 36,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1580
+ },
+ {
+  "name": "FUN_0068a5c0",
+  "address": "0x0068A5C0",
+  "bytes": 134,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_0068a5c0.c"
+ },
+ {
+  "name": "FUN_006976a0",
+  "address": "0x006976A0",
+  "bytes": 21,
+  "gate": "npc-ai-readable",
+  "source": "src/game/npc_ai_trials/FUN_006976a0.c"
+ },
+ {
+  "name": "FUN_0069e1c0",
+  "address": "0x0069E1C0",
+  "bytes": 54,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 686
+ },
+ {
+  "name": "FUN_006a7060",
+  "address": "0x006A7060",
+  "bytes": 24,
+  "gate": "first-mission-readable",
+  "source": "src/game/first_mission_trials/FUN_006a7060.c"
+ },
+ {
+  "name": "FUN_006a74e0",
+  "address": "0x006A74E0",
+  "bytes": 61,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_006a74e0.c"
+ },
+ {
+  "name": "FUN_006a7560",
+  "address": "0x006A7560",
+  "bytes": 17,
+  "gate": "first-mission-readable",
+  "source": "src/game/first_mission_trials/FUN_006a7560.c"
+ },
+ {
+  "name": "FUN_006a7f30",
+  "address": "0x006A7F30",
+  "bytes": 17,
+  "gate": "first-mission-readable",
+  "source": "src/game/first_mission_trials/FUN_006a7f30.c"
+ },
+ {
+  "name": "FUN_006a8ca0",
+  "address": "0x006A8CA0",
+  "bytes": 25,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1956
+ },
+ {
+  "name": "FUN_006abbd0",
+  "address": "0x006ABBD0",
+  "bytes": 33,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2589
+ },
+ {
+  "name": "FUN_006abce0",
+  "address": "0x006ABCE0",
+  "bytes": 94,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_006abce0.c"
+ },
+ {
+  "name": "FUN_006add30",
+  "address": "0x006ADD30",
+  "bytes": 28,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_006add30.c"
+ },
+ {
+  "name": "FUN_006afa00",
+  "address": "0x006AFA00",
+  "bytes": 125,
+  "gate": "npc-ai-rea-next-d-readable",
+  "source": "src/game/npc_ai_rea_next_d_trials/FUN_006afa00.c"
+ },
+ {
+  "name": "FUN_006afd20",
+  "address": "0x006AFD20",
+  "bytes": 22,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_006afd20.c"
+ },
+ {
+  "name": "FUN_006afd40",
+  "address": "0x006AFD40",
+  "bytes": 22,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_006afd40.c"
+ },
+ {
+  "name": "FUN_006afd60",
+  "address": "0x006AFD60",
+  "bytes": 16,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_006afd60.c"
+ },
+ {
+  "name": "FUN_006afd70",
+  "address": "0x006AFD70",
+  "bytes": 6,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_006afd70.c"
+ },
+ {
+  "name": "FUN_006afe90",
+  "address": "0x006AFE90",
+  "bytes": 19,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_006afe90.c"
+ },
+ {
+  "name": "FUN_006afeb0",
+  "address": "0x006AFEB0",
+  "bytes": 27,
+  "gate": "npc-ai-rea-virtual-readable",
+  "source": "src/game/npc_ai_rea_virtual_trials/FUN_006afeb0.c"
+ },
+ {
+  "name": "FUN_006afed0",
+  "address": "0x006AFED0",
+  "bytes": 124,
+  "gate": "npc-ai-rea-next-d-readable",
+  "source": "src/game/npc_ai_rea_next_d_trials/FUN_006afed0.c"
+ },
+ {
+  "name": "FUN_006b01c0",
+  "address": "0x006B01C0",
+  "bytes": 28,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_006b01c0.c"
+ },
+ {
+  "name": "FUN_006b01e0",
+  "address": "0x006B01E0",
+  "bytes": 26,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_006b01e0.c"
+ },
+ {
+  "name": "FUN_006b0200",
+  "address": "0x006B0200",
+  "bytes": 22,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_006b0200.c"
+ },
+ {
+  "name": "FUN_006b0220",
+  "address": "0x006B0220",
+  "bytes": 6,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_006b0220.c"
+ },
+ {
+  "name": "FUN_006b0320",
+  "address": "0x006B0320",
+  "bytes": 19,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_006b0320.c"
+ },
+ {
+  "name": "FUN_006b0340",
+  "address": "0x006B0340",
+  "bytes": 27,
+  "gate": "npc-ai-rea-virtual-readable",
+  "source": "src/game/npc_ai_rea_virtual_trials/FUN_006b0340.c"
+ },
+ {
+  "name": "FUN_006b71b0",
+  "address": "0x006B71B0",
+  "bytes": 78,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1833
+ },
+ {
+  "name": "FUN_006bcff0",
+  "address": "0x006BCFF0",
+  "bytes": 75,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1227
+ },
+ {
+  "name": "FUN_006beed0",
+  "address": "0x006BEED0",
+  "bytes": 228,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006beed0.c"
+ },
+ {
+  "name": "FUN_006bf300",
+  "address": "0x006BF300",
+  "bytes": 53,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006bf300.c"
+ },
+ {
+  "name": "FUN_006c1660",
+  "address": "0x006C1660",
+  "bytes": 134,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006c1660.c"
+ },
+ {
+  "name": "FUN_006c1cb0",
+  "address": "0x006C1CB0",
+  "bytes": 122,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006c1cb0.c"
+ },
+ {
+  "name": "FUN_006c1ef0",
+  "address": "0x006C1EF0",
+  "bytes": 114,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006c1ef0.c"
+ },
+ {
+  "name": "FUN_006c32a0",
+  "address": "0x006C32A0",
+  "bytes": 62,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006c32a0.c"
+ },
+ {
+  "name": "FUN_006c37d0",
+  "address": "0x006C37D0",
+  "bytes": 79,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006c37d0.c"
+ },
+ {
+  "name": "FUN_006c3820",
+  "address": "0x006C3820",
+  "bytes": 116,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006c3820.c"
+ },
+ {
+  "name": "FUN_006c3940",
+  "address": "0x006C3940",
+  "bytes": 42,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006c3940.c"
+ },
+ {
+  "name": "FUN_006c39d0",
+  "address": "0x006C39D0",
+  "bytes": 76,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006c39d0.c"
+ },
+ {
+  "name": "FUN_006c6b90",
+  "address": "0x006C6B90",
+  "bytes": 79,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006c6b90.c"
+ },
+ {
+  "name": "FUN_006c6d20",
+  "address": "0x006C6D20",
+  "bytes": 36,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006c6d20.c"
+ },
+ {
+  "name": "FUN_006c6d50",
+  "address": "0x006C6D50",
+  "bytes": 27,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006c6d50.c"
+ },
+ {
+  "name": "FUN_006c6d70",
+  "address": "0x006C6D70",
+  "bytes": 27,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006c6d70.c"
+ },
+ {
+  "name": "FUN_006c6d90",
+  "address": "0x006C6D90",
+  "bytes": 32,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006c6d90.c"
+ },
+ {
+  "name": "FUN_006c6dd0",
+  "address": "0x006C6DD0",
+  "bytes": 41,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006c6dd0.c"
+ },
+ {
+  "name": "FUN_006c6e00",
+  "address": "0x006C6E00",
+  "bytes": 36,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006c6e00.c"
+ },
+ {
+  "name": "FUN_006c6e80",
+  "address": "0x006C6E80",
+  "bytes": 88,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006c6e80.c"
+ },
+ {
+  "name": "FUN_006c6ee0",
+  "address": "0x006C6EE0",
+  "bytes": 106,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006c6ee0.c"
+ },
+ {
+  "name": "FUN_006c6f50",
+  "address": "0x006C6F50",
+  "bytes": 87,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006c6f50.c"
+ },
+ {
+  "name": "FUN_006c70d0",
+  "address": "0x006C70D0",
+  "bytes": 64,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006c70d0.c"
+ },
+ {
+  "name": "FUN_006c7110",
+  "address": "0x006C7110",
+  "bytes": 126,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006c7110.c"
+ },
+ {
+  "name": "FUN_006c78a0",
+  "address": "0x006C78A0",
+  "bytes": 11,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006c78a0.c"
+ },
+ {
+  "name": "FUN_006c8020",
+  "address": "0x006C8020",
+  "bytes": 27,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006c8020.c"
+ },
+ {
+  "name": "FUN_006c8080",
+  "address": "0x006C8080",
+  "bytes": 91,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006c8080.c"
+ },
+ {
+  "name": "FUN_006c80e0",
+  "address": "0x006C80E0",
+  "bytes": 68,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006c80e0.c"
+ },
+ {
+  "name": "FUN_006c8f50",
+  "address": "0x006C8F50",
+  "bytes": 75,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006c8f50.c"
+ },
+ {
+  "name": "FUN_006c8fb0",
+  "address": "0x006C8FB0",
+  "bytes": 130,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006c8fb0.c"
+ },
+ {
+  "name": "FUN_006c9060",
+  "address": "0x006C9060",
+  "bytes": 45,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006c9060.c"
+ },
+ {
+  "name": "FUN_006c92a0",
+  "address": "0x006C92A0",
+  "bytes": 116,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006c92a0.c"
+ },
+ {
+  "name": "FUN_006c9320",
+  "address": "0x006C9320",
+  "bytes": 95,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006c9320.c"
+ },
+ {
+  "name": "FUN_006c95e0",
+  "address": "0x006C95E0",
+  "bytes": 109,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006c95e0.c"
+ },
+ {
+  "name": "FUN_006c97e0",
+  "address": "0x006C97E0",
+  "bytes": 75,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006c97e0.c"
+ },
+ {
+  "name": "FUN_006c98b0",
+  "address": "0x006C98B0",
+  "bytes": 148,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006c98b0.c"
+ },
+ {
+  "name": "FUN_006c9d20",
+  "address": "0x006C9D20",
+  "bytes": 11,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006c9d20.c"
+ },
+ {
+  "name": "FUN_006c9d80",
+  "address": "0x006C9D80",
+  "bytes": 23,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006c9d80.c"
+ },
+ {
+  "name": "FUN_006c9da0",
+  "address": "0x006C9DA0",
+  "bytes": 14,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006c9da0.c"
+ },
+ {
+  "name": "FUN_006c9db0",
+  "address": "0x006C9DB0",
+  "bytes": 14,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006c9db0.c"
+ },
+ {
+  "name": "FUN_006ca270",
+  "address": "0x006CA270",
+  "bytes": 250,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006ca270.c"
+ },
+ {
+  "name": "FUN_006ca510",
+  "address": "0x006CA510",
+  "bytes": 68,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006ca510.c"
+ },
+ {
+  "name": "FUN_006ca7c0",
+  "address": "0x006CA7C0",
+  "bytes": 259,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006ca7c0.c"
+ },
+ {
+  "name": "FUN_006caa60",
+  "address": "0x006CAA60",
+  "bytes": 1,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006caa60.c"
+ },
+ {
+  "name": "FUN_006caa70",
+  "address": "0x006CAA70",
+  "bytes": 1,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006caa70.c"
+ },
+ {
+  "name": "FUN_006cab00",
+  "address": "0x006CAB00",
+  "bytes": 99,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cab00.c"
+ },
+ {
+  "name": "FUN_006cab70",
+  "address": "0x006CAB70",
+  "bytes": 99,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cab70.c"
+ },
+ {
+  "name": "FUN_006cacd0",
+  "address": "0x006CACD0",
+  "bytes": 79,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cacd0.c"
+ },
+ {
+  "name": "FUN_006caf40",
+  "address": "0x006CAF40",
+  "bytes": 175,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006caf40.c"
+ },
+ {
+  "name": "FUN_006cb090",
+  "address": "0x006CB090",
+  "bytes": 120,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cb090.c"
+ },
+ {
+  "name": "FUN_006cb1d0",
+  "address": "0x006CB1D0",
+  "bytes": 115,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cb1d0.c"
+ },
+ {
+  "name": "FUN_006cb250",
+  "address": "0x006CB250",
+  "bytes": 73,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cb250.c"
+ },
+ {
+  "name": "FUN_006cb2a0",
+  "address": "0x006CB2A0",
+  "bytes": 59,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cb2a0.c"
+ },
+ {
+  "name": "FUN_006cb2e0",
+  "address": "0x006CB2E0",
+  "bytes": 71,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cb2e0.c"
+ },
+ {
+  "name": "FUN_006cb330",
+  "address": "0x006CB330",
+  "bytes": 96,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cb330.c"
+ },
+ {
+  "name": "FUN_006cb590",
+  "address": "0x006CB590",
+  "bytes": 71,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006cb590.c"
+ },
+ {
+  "name": "FUN_006cb5e0",
+  "address": "0x006CB5E0",
+  "bytes": 148,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006cb5e0.c"
+ },
+ {
+  "name": "FUN_006cb680",
+  "address": "0x006CB680",
+  "bytes": 21,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cb680.c"
+ },
+ {
+  "name": "FUN_006cb6a0",
+  "address": "0x006CB6A0",
+  "bytes": 58,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006cb6a0.c"
+ },
+ {
+  "name": "FUN_006cb6e0",
+  "address": "0x006CB6E0",
+  "bytes": 66,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cb6e0.c"
+ },
+ {
+  "name": "FUN_006cb730",
+  "address": "0x006CB730",
+  "bytes": 66,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cb730.c"
+ },
+ {
+  "name": "FUN_006cb780",
+  "address": "0x006CB780",
+  "bytes": 91,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cb780.c"
+ },
+ {
+  "name": "FUN_006cb7e0",
+  "address": "0x006CB7E0",
+  "bytes": 111,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cb7e0.c"
+ },
+ {
+  "name": "FUN_006cb8e0",
+  "address": "0x006CB8E0",
+  "bytes": 32,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cb8e0.c"
+ },
+ {
+  "name": "FUN_006cb900",
+  "address": "0x006CB900",
+  "bytes": 32,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cb900.c"
+ },
+ {
+  "name": "FUN_006cbde0",
+  "address": "0x006CBDE0",
+  "bytes": 108,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cbde0.c"
+ },
+ {
+  "name": "FUN_006cbe50",
+  "address": "0x006CBE50",
+  "bytes": 59,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cbe50.c"
+ },
+ {
+  "name": "FUN_006cc410",
+  "address": "0x006CC410",
+  "bytes": 74,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cc410.c"
+ },
+ {
+  "name": "FUN_006cc460",
+  "address": "0x006CC460",
+  "bytes": 94,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006cc460.c"
+ },
+ {
+  "name": "FUN_006cc4c0",
+  "address": "0x006CC4C0",
+  "bytes": 47,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006cc4c0.c"
+ },
+ {
+  "name": "FUN_006cc4f0",
+  "address": "0x006CC4F0",
+  "bytes": 76,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cc4f0.c"
+ },
+ {
+  "name": "FUN_006cc5a0",
+  "address": "0x006CC5A0",
+  "bytes": 50,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cc5a0.c"
+ },
+ {
+  "name": "FUN_006cc5e0",
+  "address": "0x006CC5E0",
+  "bytes": 43,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cc5e0.c"
+ },
+ {
+  "name": "FUN_006cc770",
+  "address": "0x006CC770",
+  "bytes": 40,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cc770.c"
+ },
+ {
+  "name": "FUN_006cc7a0",
+  "address": "0x006CC7A0",
+  "bytes": 43,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cc7a0.c"
+ },
+ {
+  "name": "FUN_006cc7d0",
+  "address": "0x006CC7D0",
+  "bytes": 28,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cc7d0.c"
+ },
+ {
+  "name": "FUN_006cca50",
+  "address": "0x006CCA50",
+  "bytes": 261,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cca50.c"
+ },
+ {
+  "name": "FUN_006ccb60",
+  "address": "0x006CCB60",
+  "bytes": 128,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006ccb60.c"
+ },
+ {
+  "name": "FUN_006ccbe0",
+  "address": "0x006CCBE0",
+  "bytes": 121,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006ccbe0.c"
+ },
+ {
+  "name": "FUN_006cce40",
+  "address": "0x006CCE40",
+  "bytes": 124,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cce40.c"
+ },
+ {
+  "name": "FUN_006ccf20",
+  "address": "0x006CCF20",
+  "bytes": 51,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006ccf20.c"
+ },
+ {
+  "name": "FUN_006ccf60",
+  "address": "0x006CCF60",
+  "bytes": 60,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006ccf60.c"
+ },
+ {
+  "name": "FUN_006ccfa0",
+  "address": "0x006CCFA0",
+  "bytes": 61,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006ccfa0.c"
+ },
+ {
+  "name": "FUN_006cd010",
+  "address": "0x006CD010",
+  "bytes": 60,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006cd010.c"
+ },
+ {
+  "name": "FUN_006cd050",
+  "address": "0x006CD050",
+  "bytes": 49,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006cd050.c"
+ },
+ {
+  "name": "FUN_006cd090",
+  "address": "0x006CD090",
+  "bytes": 24,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006cd090.c"
+ },
+ {
+  "name": "FUN_006cd0b0",
+  "address": "0x006CD0B0",
+  "bytes": 26,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006cd0b0.c"
+ },
+ {
+  "name": "FUN_006cd0d0",
+  "address": "0x006CD0D0",
+  "bytes": 27,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006cd0d0.c"
+ },
+ {
+  "name": "FUN_006cd0f0",
+  "address": "0x006CD0F0",
+  "bytes": 27,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006cd0f0.c"
+ },
+ {
+  "name": "FUN_006cd110",
+  "address": "0x006CD110",
+  "bytes": 86,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006cd110.c"
+ },
+ {
+  "name": "FUN_006cdb50",
+  "address": "0x006CDB50",
+  "bytes": 46,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006cdb50.c"
+ },
+ {
+  "name": "FUN_006cdb80",
+  "address": "0x006CDB80",
+  "bytes": 60,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006cdb80.c"
+ },
+ {
+  "name": "FUN_006cdbc0",
+  "address": "0x006CDBC0",
+  "bytes": 102,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006cdbc0.c"
+ },
+ {
+  "name": "FUN_006cdef0",
+  "address": "0x006CDEF0",
+  "bytes": 79,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006cdef0.c"
+ },
+ {
+  "name": "FUN_006ce140",
+  "address": "0x006CE140",
+  "bytes": 48,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006ce140.c"
+ },
+ {
+  "name": "FUN_006ce180",
+  "address": "0x006CE180",
+  "bytes": 33,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006ce180.c"
+ },
+ {
+  "name": "FUN_006ced90",
+  "address": "0x006CED90",
+  "bytes": 68,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006ced90.c"
+ },
+ {
+  "name": "FUN_006cee30",
+  "address": "0x006CEE30",
+  "bytes": 106,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006cee30.c"
+ },
+ {
+  "name": "FUN_006cefb0",
+  "address": "0x006CEFB0",
+  "bytes": 64,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006cefb0.c"
+ },
+ {
+  "name": "FUN_006d1ef0",
+  "address": "0x006D1EF0",
+  "bytes": 22,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d1ef0.c"
+ },
+ {
+  "name": "FUN_006d3850",
+  "address": "0x006D3850",
+  "bytes": 37,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006d3850.c"
+ },
+ {
+  "name": "FUN_006d4570",
+  "address": "0x006D4570",
+  "bytes": 146,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006d4570.c"
+ },
+ {
+  "name": "FUN_006d5cf0",
+  "address": "0x006D5CF0",
+  "bytes": 92,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006d5cf0.c"
+ },
+ {
+  "name": "FUN_006d5dd0",
+  "address": "0x006D5DD0",
+  "bytes": 34,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d5dd0.c"
+ },
+ {
+  "name": "FUN_006d5e50",
+  "address": "0x006D5E50",
+  "bytes": 53,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006d5e50.c"
+ },
+ {
+  "name": "FUN_006d60c0",
+  "address": "0x006D60C0",
+  "bytes": 437,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006d60c0.c"
+ },
+ {
+  "name": "FUN_006d6c70",
+  "address": "0x006D6C70",
+  "bytes": 291,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006d6c70.c"
+ },
+ {
+  "name": "FUN_006d6eb0",
+  "address": "0x006D6EB0",
+  "bytes": 274,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006d6eb0.c"
+ },
+ {
+  "name": "FUN_006d7030",
+  "address": "0x006D7030",
+  "bytes": 19,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d7030.c"
+ },
+ {
+  "name": "FUN_006d7100",
+  "address": "0x006D7100",
+  "bytes": 102,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006d7100.c"
+ },
+ {
+  "name": "FUN_006d7170",
+  "address": "0x006D7170",
+  "bytes": 82,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006d7170.c"
+ },
+ {
+  "name": "FUN_006d7230",
+  "address": "0x006D7230",
+  "bytes": 102,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006d7230.c"
+ },
+ {
+  "name": "FUN_006d7490",
+  "address": "0x006D7490",
+  "bytes": 112,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006d7490.c"
+ },
+ {
+  "name": "FUN_006d7500",
+  "address": "0x006D7500",
+  "bytes": 1,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d7500.c"
+ },
+ {
+  "name": "FUN_006d7510",
+  "address": "0x006D7510",
+  "bytes": 55,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d7510.c"
+ },
+ {
+  "name": "FUN_006d7550",
+  "address": "0x006D7550",
+  "bytes": 63,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d7550.c"
+ },
+ {
+  "name": "FUN_006d7590",
+  "address": "0x006D7590",
+  "bytes": 18,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d7590.c"
+ },
+ {
+  "name": "FUN_006d75b0",
+  "address": "0x006D75B0",
+  "bytes": 21,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d75b0.c"
+ },
+ {
+  "name": "FUN_006d75d0",
+  "address": "0x006D75D0",
+  "bytes": 14,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d75d0.c"
+ },
+ {
+  "name": "FUN_006d75e0",
+  "address": "0x006D75E0",
+  "bytes": 24,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d75e0.c"
+ },
+ {
+  "name": "FUN_006d7600",
+  "address": "0x006D7600",
+  "bytes": 36,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d7600.c"
+ },
+ {
+  "name": "FUN_006d7630",
+  "address": "0x006D7630",
+  "bytes": 14,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d7630.c"
+ },
+ {
+  "name": "FUN_006d7640",
+  "address": "0x006D7640",
+  "bytes": 18,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d7640.c"
+ },
+ {
+  "name": "FUN_006d7660",
+  "address": "0x006D7660",
+  "bytes": 14,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d7660.c"
+ },
+ {
+  "name": "FUN_006d7670",
+  "address": "0x006D7670",
+  "bytes": 49,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d7670.c"
+ },
+ {
+  "name": "FUN_006d76b0",
+  "address": "0x006D76B0",
+  "bytes": 14,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d76b0.c"
+ },
+ {
+  "name": "FUN_006d76c0",
+  "address": "0x006D76C0",
+  "bytes": 1,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d76c0.c"
+ },
+ {
+  "name": "FUN_006d7720",
+  "address": "0x006D7720",
+  "bytes": 26,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d7720.c"
+ },
+ {
+  "name": "FUN_006d7740",
+  "address": "0x006D7740",
+  "bytes": 14,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d7740.c"
+ },
+ {
+  "name": "FUN_006d7750",
+  "address": "0x006D7750",
+  "bytes": 70,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006d7750.c"
+ },
+ {
+  "name": "FUN_006d77a0",
+  "address": "0x006D77A0",
+  "bytes": 52,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d77a0.c"
+ },
+ {
+  "name": "FUN_006d77e0",
+  "address": "0x006D77E0",
+  "bytes": 83,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d77e0.c"
+ },
+ {
+  "name": "FUN_006d7840",
+  "address": "0x006D7840",
+  "bytes": 80,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d7840.c"
+ },
+ {
+  "name": "FUN_006d7890",
+  "address": "0x006D7890",
+  "bytes": 57,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d7890.c"
+ },
+ {
+  "name": "FUN_006d78d0",
+  "address": "0x006D78D0",
+  "bytes": 30,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d78d0.c"
+ },
+ {
+  "name": "FUN_006d78f0",
+  "address": "0x006D78F0",
+  "bytes": 234,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d78f0.c"
+ },
+ {
+  "name": "FUN_006d79e0",
+  "address": "0x006D79E0",
+  "bytes": 21,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d79e0.c"
+ },
+ {
+  "name": "FUN_006d7a60",
+  "address": "0x006D7A60",
+  "bytes": 62,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006d7a60.c"
+ },
+ {
+  "name": "FUN_006d7aa0",
+  "address": "0x006D7AA0",
+  "bytes": 74,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d7aa0.c"
+ },
+ {
+  "name": "FUN_006d7af0",
+  "address": "0x006D7AF0",
+  "bytes": 30,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006d7af0.c"
+ },
+ {
+  "name": "FUN_006d7b10",
+  "address": "0x006D7B10",
+  "bytes": 30,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006d7b10.c"
+ },
+ {
+  "name": "FUN_006d7b30",
+  "address": "0x006D7B30",
+  "bytes": 226,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006d7b30.c"
+ },
+ {
+  "name": "FUN_006d7c20",
+  "address": "0x006D7C20",
+  "bytes": 96,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006d7c20.c"
+ },
+ {
+  "name": "FUN_006d7c80",
+  "address": "0x006D7C80",
+  "bytes": 119,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006d7c80.c"
+ },
+ {
+  "name": "FUN_006d7d00",
+  "address": "0x006D7D00",
+  "bytes": 99,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006d7d00.c"
+ },
+ {
+  "name": "FUN_006d7d70",
+  "address": "0x006D7D70",
+  "bytes": 54,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d7d70.c"
+ },
+ {
+  "name": "FUN_006d7db0",
+  "address": "0x006D7DB0",
+  "bytes": 45,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006d7db0.c"
+ },
+ {
+  "name": "FUN_006d7de0",
+  "address": "0x006D7DE0",
+  "bytes": 210,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006d7de0.c"
+ },
+ {
+  "name": "FUN_006d7ec0",
+  "address": "0x006D7EC0",
+  "bytes": 102,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006d7ec0.c"
+ },
+ {
+  "name": "FUN_006d7f30",
+  "address": "0x006D7F30",
+  "bytes": 131,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006d7f30.c"
+ },
+ {
+  "name": "FUN_006d8120",
+  "address": "0x006D8120",
+  "bytes": 18,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d8120.c"
+ },
+ {
+  "name": "FUN_006d8140",
+  "address": "0x006D8140",
+  "bytes": 19,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d8140.c"
+ },
+ {
+  "name": "FUN_006d8160",
+  "address": "0x006D8160",
+  "bytes": 1,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d8160.c"
+ },
+ {
+  "name": "FUN_006d8170",
+  "address": "0x006D8170",
+  "bytes": 112,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d8170.c"
+ },
+ {
+  "name": "FUN_006d81e0",
+  "address": "0x006D81E0",
+  "bytes": 14,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d81e0.c"
+ },
+ {
+  "name": "FUN_006d81f0",
+  "address": "0x006D81F0",
+  "bytes": 14,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d81f0.c"
+ },
+ {
+  "name": "FUN_006d8200",
+  "address": "0x006D8200",
+  "bytes": 34,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d8200.c"
+ },
+ {
+  "name": "FUN_006d8230",
+  "address": "0x006D8230",
+  "bytes": 1,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d8230.c"
+ },
+ {
+  "name": "FUN_006d8240",
+  "address": "0x006D8240",
+  "bytes": 58,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d8240.c"
+ },
+ {
+  "name": "FUN_006d8280",
+  "address": "0x006D8280",
+  "bytes": 46,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006d8280.c"
+ },
+ {
+  "name": "FUN_006d82b0",
+  "address": "0x006D82B0",
+  "bytes": 23,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006d82b0.c"
+ },
+ {
+  "name": "FUN_006d82d0",
+  "address": "0x006D82D0",
+  "bytes": 26,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d82d0.c"
+ },
+ {
+  "name": "FUN_006d82f0",
+  "address": "0x006D82F0",
+  "bytes": 1,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d82f0.c"
+ },
+ {
+  "name": "FUN_006d8300",
+  "address": "0x006D8300",
+  "bytes": 62,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d8300.c"
+ },
+ {
+  "name": "FUN_006d8900",
+  "address": "0x006D8900",
+  "bytes": 78,
+  "gate": "cutscene-dispatch",
+  "source": "src/game/cutscene_dispatch_trials/FUN_006d8900.c"
+ },
+ {
+  "name": "FUN_006d8950",
+  "address": "0x006D8950",
+  "bytes": 84,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006d8950.c"
+ },
+ {
+  "name": "FUN_006d8a10",
+  "address": "0x006D8A10",
+  "bytes": 75,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006d8a10.c"
+ },
+ {
+  "name": "FUN_006d8b00",
+  "address": "0x006D8B00",
+  "bytes": 63,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006d8b00.c"
+ },
+ {
+  "name": "FUN_006d8fd0",
+  "address": "0x006D8FD0",
+  "bytes": 90,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d8fd0.c"
+ },
+ {
+  "name": "FUN_006d9030",
+  "address": "0x006D9030",
+  "bytes": 51,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d9030.c"
+ },
+ {
+  "name": "FUN_006d9090",
+  "address": "0x006D9090",
+  "bytes": 35,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_006d9090.c"
+ },
+ {
+  "name": "FUN_006d9400",
+  "address": "0x006D9400",
+  "bytes": 55,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006d9400.c"
+ },
+ {
+  "name": "FUN_006d9530",
+  "address": "0x006D9530",
+  "bytes": 209,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_006d9530.c"
+ },
+ {
+  "name": "FUN_006e8480",
+  "address": "0x006E8480",
+  "bytes": 23,
+  "gate": "first-mission-readable",
+  "source": "src/game/first_mission_trials/FUN_006e8480.c"
+ },
+ {
+  "name": "FUN_006e9340",
+  "address": "0x006E9340",
+  "bytes": 24,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1076
+ },
+ {
+  "name": "FUN_006e9fe0",
+  "address": "0x006E9FE0",
+  "bytes": 103,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_006e9fe0.c"
+ },
+ {
+  "name": "FUN_006eb1e0",
+  "address": "0x006EB1E0",
+  "bytes": 93,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_006eb1e0.c"
+ },
+ {
+  "name": "FUN_006ef730",
+  "address": "0x006EF730",
+  "bytes": 22,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3282
+ },
+ {
+  "name": "FUN_006ef750",
+  "address": "0x006EF750",
+  "bytes": 22,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3275
+ },
+ {
+  "name": "FUN_006ef770",
+  "address": "0x006EF770",
+  "bytes": 19,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1725
+ },
+ {
+  "name": "FUN_006efe30",
+  "address": "0x006EFE30",
+  "bytes": 63,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 645
+ },
+ {
+  "name": "FUN_006efff0",
+  "address": "0x006EFFF0",
+  "bytes": 62,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_006efff0.c"
+ },
+ {
+  "name": "FUN_006f5b60",
+  "address": "0x006F5B60",
+  "bytes": 79,
+  "gate": "npc-ai-readable",
+  "source": "src/game/npc_ai_trials/FUN_006f5b60.c"
+ },
+ {
+  "name": "FUN_006fd1b0",
+  "address": "0x006FD1B0",
+  "bytes": 36,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2915
+ },
+ {
+  "name": "FUN_00701f90",
+  "address": "0x00701F90",
+  "bytes": 101,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 792
+ },
+ {
+  "name": "FUN_007027c0",
+  "address": "0x007027C0",
+  "bytes": 20,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2154
+ },
+ {
+  "name": "FUN_00703350",
+  "address": "0x00703350",
+  "bytes": 47,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 642
+ },
+ {
+  "name": "FUN_00705420",
+  "address": "0x00705420",
+  "bytes": 21,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1065
+ },
+ {
+  "name": "FUN_00705460",
+  "address": "0x00705460",
+  "bytes": 21,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1943
+ },
+ {
+  "name": "FUN_0070eb70",
+  "address": "0x0070EB70",
+  "bytes": 9,
+  "gate": "npc-ai-readable",
+  "source": "src/game/npc_ai_trials/FUN_0070eb70.c"
+ },
+ {
+  "name": "FUN_00710db0",
+  "address": "0x00710DB0",
+  "bytes": 99,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_00710db0.c"
+ },
+ {
+  "name": "FUN_007357d0",
+  "address": "0x007357D0",
+  "bytes": 32,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2876
+ },
+ {
+  "name": "FUN_007357f0",
+  "address": "0x007357F0",
+  "bytes": 26,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2867
+ },
+ {
+  "name": "FUN_00735fb0",
+  "address": "0x00735FB0",
+  "bytes": 37,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3388
+ },
+ {
+  "name": "FUN_007371a0",
+  "address": "0x007371A0",
+  "bytes": 32,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 712
+ },
+ {
+  "name": "FUN_00751830",
+  "address": "0x00751830",
+  "bytes": 47,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_00751830.c"
+ },
+ {
+  "name": "FUN_00751860",
+  "address": "0x00751860",
+  "bytes": 68,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_00751860.c"
+ },
+ {
+  "name": "FUN_00773020",
+  "address": "0x00773020",
+  "bytes": 57,
+  "gate": "npc-ai-rea-readable",
+  "source": "src/game/npc_ai_rea_trials/FUN_00773020.c"
+ },
+ {
+  "name": "FUN_00782e60",
+  "address": "0x00782E60",
+  "bytes": 27,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1097
+ },
+ {
+  "name": "FUN_00782ff0",
+  "address": "0x00782FF0",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00782ff0.c"
+ },
+ {
+  "name": "FUN_00783970",
+  "address": "0x00783970",
+  "bytes": 67,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_00783970.c"
+ },
+ {
+  "name": "FUN_00783c20",
+  "address": "0x00783C20",
+  "bytes": 66,
+  "gate": "npc-ai-rea-next-a6-readable",
+  "source": "src/game/npc_ai_rea_next_a6_trials/FUN_00783c20.c"
+ },
+ {
+  "name": "FUN_00784550",
+  "address": "0x00784550",
+  "bytes": 1,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00784550.c"
+ },
+ {
+  "name": "FUN_00784560",
+  "address": "0x00784560",
+  "bytes": 48,
+  "gate": "npc-ai-rea-next-a2-readable",
+  "source": "src/game/npc_ai_rea_next_a2_trials/FUN_00784560.c"
+ },
+ {
+  "name": "FUN_00784590",
+  "address": "0x00784590",
+  "bytes": 6,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00784590.c"
+ },
+ {
+  "name": "FUN_007845a0",
+  "address": "0x007845A0",
+  "bytes": 7,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_007845a0.c"
+ },
+ {
+  "name": "FUN_00784600",
+  "address": "0x00784600",
+  "bytes": 27,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00784600.c"
+ },
+ {
+  "name": "FUN_00784620",
+  "address": "0x00784620",
+  "bytes": 7,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00784620.c"
+ },
+ {
+  "name": "FUN_00787360",
+  "address": "0x00787360",
+  "bytes": 28,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2892
+ },
+ {
+  "name": "FUN_007945e0",
+  "address": "0x007945E0",
+  "bytes": 25,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 489
+ },
+ {
+  "name": "FUN_0079d330",
+  "address": "0x0079D330",
+  "bytes": 41,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1559
+ },
+ {
+  "name": "FUN_0079d360",
+  "address": "0x0079D360",
+  "bytes": 73,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_0079d360.c"
+ },
+ {
+  "name": "FUN_007b36f0",
+  "address": "0x007B36F0",
+  "bytes": 57,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_007b36f0.c"
+ },
+ {
+  "name": "FUN_007eeae0",
+  "address": "0x007EEAE0",
+  "bytes": 17,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_007eeae0.c"
+ },
+ {
+  "name": "FUN_007fca90",
+  "address": "0x007FCA90",
+  "bytes": 19,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1484
+ },
+ {
+  "name": "FUN_008066c0",
+  "address": "0x008066C0",
+  "bytes": 84,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 541
+ },
+ {
+  "name": "FUN_00806720",
+  "address": "0x00806720",
+  "bytes": 59,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3496
+ },
+ {
+  "name": "FUN_0080ba60",
+  "address": "0x0080BA60",
+  "bytes": 133,
+  "gate": "traffic-rea-private-calls_a",
+  "source": "src/game/traffic_rea_private_trials/calls_a/FUN_0080ba60.c"
+ },
+ {
+  "name": "FUN_0080fcf0",
+  "address": "0x0080FCF0",
+  "bytes": 36,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 612
+ },
+ {
+  "name": "FUN_00814b00",
+  "address": "0x00814B00",
+  "bytes": 54,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1700
+ },
+ {
+  "name": "FUN_00828590",
+  "address": "0x00828590",
+  "bytes": 108,
+  "gate": "traffic-rea-private-calls_d",
+  "source": "src/game/traffic_rea_private_trials/calls_d/FUN_00828590.c"
+ },
+ {
+  "name": "FUN_00828a00",
+  "address": "0x00828A00",
+  "bytes": 82,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2137
+ },
+ {
+  "name": "FUN_00842b70",
+  "address": "0x00842B70",
+  "bytes": 27,
+  "gate": "npc-ai-readable",
+  "source": "src/game/npc_ai_trials/FUN_00842b70.c"
+ },
+ {
+  "name": "FUN_00851530",
+  "address": "0x00851530",
+  "bytes": 31,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_00851530.c"
+ },
+ {
+  "name": "FUN_00859780",
+  "address": "0x00859780",
+  "bytes": 8,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00859780.c"
+ },
+ {
+  "name": "FUN_0085a910",
+  "address": "0x0085A910",
+  "bytes": 129,
+  "gate": "npc-ai-rea-next-d-readable",
+  "source": "src/game/npc_ai_rea_next_d_trials/FUN_0085a910.c"
+ },
+ {
+  "name": "FUN_0085ac20",
+  "address": "0x0085AC20",
+  "bytes": 25,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_0085ac20.c"
+ },
+ {
+  "name": "FUN_0085ac40",
+  "address": "0x0085AC40",
+  "bytes": 25,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_0085ac40.c"
+ },
+ {
+  "name": "FUN_0085ac60",
+  "address": "0x0085AC60",
+  "bytes": 19,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_0085ac60.c"
+ },
+ {
+  "name": "FUN_0085ac80",
+  "address": "0x0085AC80",
+  "bytes": 6,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_0085ac80.c"
+ },
+ {
+  "name": "FUN_0085ada0",
+  "address": "0x0085ADA0",
+  "bytes": 19,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_0085ada0.c"
+ },
+ {
+  "name": "FUN_0085adc0",
+  "address": "0x0085ADC0",
+  "bytes": 27,
+  "gate": "npc-ai-rea-virtual-readable",
+  "source": "src/game/npc_ai_rea_virtual_trials/FUN_0085adc0.c"
+ },
+ {
+  "name": "FUN_0087f6c0",
+  "address": "0x0087F6C0",
+  "bytes": 49,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2906
+ },
+ {
+  "name": "FUN_008865c0",
+  "address": "0x008865C0",
+  "bytes": 92,
+  "gate": "traffic-rea-private-calls_d",
+  "source": "src/game/traffic_rea_private_trials/calls_d/FUN_008865c0.c"
+ },
+ {
+  "name": "FUN_008c9c30",
+  "address": "0x008C9C30",
+  "bytes": 32,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3418
+ },
+ {
+  "name": "FUN_008c9df0",
+  "address": "0x008C9DF0",
+  "bytes": 40,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1529
+ },
+ {
+  "name": "FUN_0090da00",
+  "address": "0x0090DA00",
+  "bytes": 67,
+  "gate": "traffic-rea-private-calls_c",
+  "source": "src/game/traffic_rea_private_trials/calls_c/FUN_0090da00.c"
+ },
+ {
+  "name": "FUN_0090f150",
+  "address": "0x0090F150",
+  "bytes": 74,
+  "gate": "traffic-rea-private-calls_c",
+  "source": "src/game/traffic_rea_private_trials/calls_c/FUN_0090f150.c"
+ },
+ {
+  "name": "FUN_0090f1a0",
+  "address": "0x0090F1A0",
+  "bytes": 70,
+  "gate": "traffic-rea-private-calls_b",
+  "source": "src/game/traffic_rea_private_trials/calls_b/FUN_0090f1a0.c"
+ },
+ {
+  "name": "FUN_0090fa00",
+  "address": "0x0090FA00",
+  "bytes": 49,
+  "gate": "traffic-rea-private-calls_a",
+  "source": "src/game/traffic_rea_private_trials/calls_a/FUN_0090fa00.c"
+ },
+ {
+  "name": "FUN_00914df0",
+  "address": "0x00914DF0",
+  "bytes": 63,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2496
+ },
+ {
+  "name": "FUN_00914e30",
+  "address": "0x00914E30",
+  "bytes": 63,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2502
+ },
+ {
+  "name": "FUN_00915990",
+  "address": "0x00915990",
+  "bytes": 23,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 139
+ },
+ {
+  "name": "FUN_0091bae0",
+  "address": "0x0091BAE0",
+  "bytes": 55,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 258
+ },
+ {
+  "name": "FUN_0091d4b0",
+  "address": "0x0091D4B0",
+  "bytes": 62,
+  "gate": "npc-ai-rea-next-a5-readable",
+  "source": "src/game/npc_ai_rea_next_a5_trials/FUN_0091d4b0.c"
+ },
+ {
+  "name": "FUN_00921f20",
+  "address": "0x00921F20",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00921f20.c"
+ },
+ {
+  "name": "FUN_00921f30",
+  "address": "0x00921F30",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00921f30.c"
+ },
+ {
+  "name": "FUN_00921f40",
+  "address": "0x00921F40",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00921f40.c"
+ },
+ {
+  "name": "FUN_00921f50",
+  "address": "0x00921F50",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00921f50.c"
+ },
+ {
+  "name": "FUN_00922da0",
+  "address": "0x00922DA0",
+  "bytes": 99,
+  "gate": "npc-ai-rea-next-a-direct-readable",
+  "source": "src/game/npc_ai_rea_next_a_direct_trials/FUN_00922da0.c"
+ },
+ {
+  "name": "FUN_00922e10",
+  "address": "0x00922E10",
+  "bytes": 25,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00922e10.c"
+ },
+ {
+  "name": "FUN_00923050",
+  "address": "0x00923050",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00923050.c"
+ },
+ {
+  "name": "FUN_00923060",
+  "address": "0x00923060",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00923060.c"
+ },
+ {
+  "name": "FUN_00923070",
+  "address": "0x00923070",
+  "bytes": 7,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00923070.c"
+ },
+ {
+  "name": "FUN_00923610",
+  "address": "0x00923610",
+  "bytes": 14,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00923610.c"
+ },
+ {
+  "name": "FUN_00923c90",
+  "address": "0x00923C90",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00923c90.c"
+ },
+ {
+  "name": "FUN_00923cf0",
+  "address": "0x00923CF0",
+  "bytes": 7,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00923cf0.c"
+ },
+ {
+  "name": "FUN_00923da0",
+  "address": "0x00923DA0",
+  "bytes": 1,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00923da0.c"
+ },
+ {
+  "name": "FUN_00923f00",
+  "address": "0x00923F00",
+  "bytes": 76,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00923f00.c"
+ },
+ {
+  "name": "FUN_00923f90",
+  "address": "0x00923F90",
+  "bytes": 1,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00923f90.c"
+ },
+ {
+  "name": "FUN_00924220",
+  "address": "0x00924220",
+  "bytes": 1,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00924220.c"
+ },
+ {
+  "name": "FUN_00924db0",
+  "address": "0x00924DB0",
+  "bytes": 164,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2217
+ },
+ {
+  "name": "FUN_00925010",
+  "address": "0x00925010",
+  "bytes": 22,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1453
+ },
+ {
+  "name": "FUN_00925030",
+  "address": "0x00925030",
+  "bytes": 32,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2004
+ },
+ {
+  "name": "FUN_00926600",
+  "address": "0x00926600",
+  "bytes": 25,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3297
+ },
+ {
+  "name": "FUN_00926620",
+  "address": "0x00926620",
+  "bytes": 43,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 245
+ },
+ {
+  "name": "FUN_00926650",
+  "address": "0x00926650",
+  "bytes": 18,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 210
+ },
+ {
+  "name": "FUN_009266b0",
+  "address": "0x009266B0",
+  "bytes": 25,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1463
+ },
+ {
+  "name": "FUN_009302a0",
+  "address": "0x009302A0",
+  "bytes": 47,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 285
+ },
+ {
+  "name": "FUN_00933f30",
+  "address": "0x00933F30",
+  "bytes": 76,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 1107
+ },
+ {
+  "name": "FUN_00935bd0",
+  "address": "0x00935BD0",
+  "bytes": 29,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 241
+ },
+ {
+  "name": "FUN_009392e0",
+  "address": "0x009392E0",
+  "bytes": 40,
+  "gate": "traffic-rea-private-calls_b",
+  "source": "src/game/traffic_rea_private_trials/calls_b/FUN_009392e0.c"
+ },
+ {
+  "name": "FUN_0093a6f0",
+  "address": "0x0093A6F0",
+  "bytes": 57,
+  "gate": "traffic-rea-private-calls_d",
+  "source": "src/game/traffic_rea_private_trials/calls_d/FUN_0093a6f0.c"
+ },
+ {
+  "name": "FUN_0093d4d0",
+  "address": "0x0093D4D0",
+  "bytes": 25,
+  "gate": "npc-ai-rea-readable",
+  "source": "src/game/npc_ai_rea_trials/FUN_0093d4d0.c"
+ },
+ {
+  "name": "FUN_009466d0",
+  "address": "0x009466D0",
+  "bytes": 16,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_009466d0.c"
+ },
+ {
+  "name": "FUN_00946710",
+  "address": "0x00946710",
+  "bytes": 16,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_00946710.c"
+ },
+ {
+  "name": "FUN_00948d30",
+  "address": "0x00948D30",
+  "bytes": 66,
+  "gate": "traffic-rea-private-calls_b",
+  "source": "src/game/traffic_rea_private_trials/calls_b/FUN_00948d30.c"
+ },
+ {
+  "name": "FUN_0094c130",
+  "address": "0x0094C130",
+  "bytes": 112,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2276
+ },
+ {
+  "name": "FUN_0094df70",
+  "address": "0x0094DF70",
+  "bytes": 38,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 235
+ },
+ {
+  "name": "FUN_00956620",
+  "address": "0x00956620",
+  "bytes": 97,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00956620.c"
+ },
+ {
+  "name": "FUN_009566b0",
+  "address": "0x009566B0",
+  "bytes": 11,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_009566b0.c"
+ },
+ {
+  "name": "FUN_00956f00",
+  "address": "0x00956F00",
+  "bytes": 70,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_00956f00.c"
+ },
+ {
+  "name": "FUN_009570b0",
+  "address": "0x009570B0",
+  "bytes": 3,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_009570b0.c"
+ },
+ {
+  "name": "FUN_0095cd20",
+  "address": "0x0095CD20",
+  "bytes": 50,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 707
+ },
+ {
+  "name": "FUN_0095d080",
+  "address": "0x0095D080",
+  "bytes": 95,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_0095d080.c"
+ },
+ {
+  "name": "FUN_00960d60",
+  "address": "0x00960D60",
+  "bytes": 48,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 926
+ },
+ {
+  "name": "FUN_00961830",
+  "address": "0x00961830",
+  "bytes": 35,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 28
+ },
+ {
+  "name": "FUN_00962f50",
+  "address": "0x00962F50",
+  "bytes": 39,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 405
+ },
+ {
+  "name": "FUN_009632e0",
+  "address": "0x009632E0",
+  "bytes": 32,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2925
+ },
+ {
+  "name": "FUN_00963540",
+  "address": "0x00963540",
+  "bytes": 58,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 490
+ },
+ {
+  "name": "FUN_00963580",
+  "address": "0x00963580",
+  "bytes": 28,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1468
+ },
+ {
+  "name": "FUN_009635a0",
+  "address": "0x009635A0",
+  "bytes": 38,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 123
+ },
+ {
+  "name": "FUN_009635d0",
+  "address": "0x009635D0",
+  "bytes": 28,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1473
+ },
+ {
+  "name": "FUN_009636f0",
+  "address": "0x009636F0",
+  "bytes": 29,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 43
+ },
+ {
+  "name": "FUN_009654b0",
+  "address": "0x009654B0",
+  "bytes": 28,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 210
+ },
+ {
+  "name": "FUN_00968cf0",
+  "address": "0x00968CF0",
+  "bytes": 34,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 61
+ },
+ {
+  "name": "FUN_0096c370",
+  "address": "0x0096C370",
+  "bytes": 59,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3547
+ },
+ {
+  "name": "FUN_0096d880",
+  "address": "0x0096D880",
+  "bytes": 33,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3243
+ },
+ {
+  "name": "FUN_0096d8b0",
+  "address": "0x0096D8B0",
+  "bytes": 71,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3343
+ },
+ {
+  "name": "FUN_0096d900",
+  "address": "0x0096D900",
+  "bytes": 33,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3263
+ },
+ {
+  "name": "FUN_0096d930",
+  "address": "0x0096D930",
+  "bytes": 33,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3233
+ },
+ {
+  "name": "FUN_0096d990",
+  "address": "0x0096D990",
+  "bytes": 32,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3253
+ },
+ {
+  "name": "FUN_0096da30",
+  "address": "0x0096DA30",
+  "bytes": 67,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3316
+ },
+ {
+  "name": "FUN_0096da80",
+  "address": "0x0096DA80",
+  "bytes": 64,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 361
+ },
+ {
+  "name": "FUN_0096dc20",
+  "address": "0x0096DC20",
+  "bytes": 76,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3196
+ },
+ {
+  "name": "FUN_0096dcf0",
+  "address": "0x0096DCF0",
+  "bytes": 42,
+  "gate": "player-movement dual-linked switch C",
+  "source": "src/game/player_movement_readable_switches.c",
+  "line": 66
+ },
+ {
+  "name": "FUN_0096e3a0",
+  "address": "0x0096E3A0",
+  "bytes": 87,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_0096e3a0.c"
+ },
+ {
+  "name": "FUN_0096f790",
+  "address": "0x0096F790",
+  "bytes": 31,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 672
+ },
+ {
+  "name": "FUN_00970a70",
+  "address": "0x00970A70",
+  "bytes": 156,
+  "gate": "player-movement dual-linked switch C",
+  "source": "src/game/player_movement_readable_switches.c",
+  "line": 146
+ },
+ {
+  "name": "FUN_00971de0",
+  "address": "0x00971DE0",
+  "bytes": 40,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_00971de0.c"
+ },
+ {
+  "name": "FUN_00971e10",
+  "address": "0x00971E10",
+  "bytes": 40,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 103
+ },
+ {
+  "name": "FUN_00974600",
+  "address": "0x00974600",
+  "bytes": 73,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 385
+ },
+ {
+  "name": "FUN_0097a380",
+  "address": "0x0097A380",
+  "bytes": 42,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_0097a380.c"
+ },
+ {
+  "name": "FUN_0097b8c0",
+  "address": "0x0097B8C0",
+  "bytes": 36,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 328
+ },
+ {
+  "name": "FUN_0097b8f0",
+  "address": "0x0097B8F0",
+  "bytes": 36,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 335
+ },
+ {
+  "name": "FUN_0097f550",
+  "address": "0x0097F550",
+  "bytes": 36,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 280
+ },
+ {
+  "name": "FUN_00980500",
+  "address": "0x00980500",
+  "bytes": 32,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_00980500.c"
+ },
+ {
+  "name": "FUN_00980520",
+  "address": "0x00980520",
+  "bytes": 30,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_00980520.c"
+ },
+ {
+  "name": "FUN_00980540",
+  "address": "0x00980540",
+  "bytes": 30,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 222
+ },
+ {
+  "name": "FUN_00980560",
+  "address": "0x00980560",
+  "bytes": 30,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_00980560.c"
+ },
+ {
+  "name": "FUN_00981dc0",
+  "address": "0x00981DC0",
+  "bytes": 61,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1743
+ },
+ {
+  "name": "FUN_00981e00",
+  "address": "0x00981E00",
+  "bytes": 42,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 179
+ },
+ {
+  "name": "FUN_00982380",
+  "address": "0x00982380",
+  "bytes": 73,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3356
+ },
+ {
+  "name": "FUN_00985630",
+  "address": "0x00985630",
+  "bytes": 76,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 1431
+ },
+ {
+  "name": "FUN_00986e60",
+  "address": "0x00986E60",
+  "bytes": 91,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 554
+ },
+ {
+  "name": "FUN_009886d0",
+  "address": "0x009886D0",
+  "bytes": 81,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_009886d0.c"
+ },
+ {
+  "name": "FUN_00988730",
+  "address": "0x00988730",
+  "bytes": 119,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_00988730.c"
+ },
+ {
+  "name": "FUN_009899c0",
+  "address": "0x009899C0",
+  "bytes": 38,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3378
+ },
+ {
+  "name": "FUN_00989a50",
+  "address": "0x00989A50",
+  "bytes": 30,
+  "gate": "player-movement dual-linked switch C",
+  "source": "src/game/player_movement_readable_switches.c",
+  "line": 5
+ },
+ {
+  "name": "FUN_0098a100",
+  "address": "0x0098A100",
+  "bytes": 30,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_0098a100.c"
+ },
+ {
+  "name": "FUN_0098aa80",
+  "address": "0x0098AA80",
+  "bytes": 45,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1636
+ },
+ {
+  "name": "FUN_0098e250",
+  "address": "0x0098E250",
+  "bytes": 24,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 601
+ },
+ {
+  "name": "FUN_0098e2a0",
+  "address": "0x0098E2A0",
+  "bytes": 48,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3406
+ },
+ {
+  "name": "FUN_0098e670",
+  "address": "0x0098E670",
+  "bytes": 148,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_0098e670.c"
+ },
+ {
+  "name": "FUN_0098e710",
+  "address": "0x0098E710",
+  "bytes": 60,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 302
+ },
+ {
+  "name": "FUN_0098e750",
+  "address": "0x0098E750",
+  "bytes": 110,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 316
+ },
+ {
+  "name": "FUN_0098e8a0",
+  "address": "0x0098E8A0",
+  "bytes": 82,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 986
+ },
+ {
+  "name": "FUN_0098fc80",
+  "address": "0x0098FC80",
+  "bytes": 10,
+  "gate": "npc-ai-readable",
+  "source": "src/game/npc_ai_trials/FUN_0098fc80.c"
+ },
+ {
+  "name": "FUN_0098fc90",
+  "address": "0x0098FC90",
+  "bytes": 124,
+  "gate": "npc-ai-rea-next-d-readable",
+  "source": "src/game/npc_ai_rea_next_d_trials/FUN_0098fc90.c"
+ },
+ {
+  "name": "FUN_0098ff20",
+  "address": "0x0098FF20",
+  "bytes": 22,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_0098ff20.c"
+ },
+ {
+  "name": "FUN_0098ff40",
+  "address": "0x0098FF40",
+  "bytes": 22,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_0098ff40.c"
+ },
+ {
+  "name": "FUN_0098ff60",
+  "address": "0x0098FF60",
+  "bytes": 16,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_0098ff60.c"
+ },
+ {
+  "name": "FUN_0098ff70",
+  "address": "0x0098FF70",
+  "bytes": 6,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_0098ff70.c"
+ },
+ {
+  "name": "FUN_00990070",
+  "address": "0x00990070",
+  "bytes": 19,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00990070.c"
+ },
+ {
+  "name": "FUN_00990090",
+  "address": "0x00990090",
+  "bytes": 27,
+  "gate": "npc-ai-rea-virtual-readable",
+  "source": "src/game/npc_ai_rea_virtual_trials/FUN_00990090.c"
+ },
+ {
+  "name": "FUN_009902a0",
+  "address": "0x009902A0",
+  "bytes": 61,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_009902a0.c"
+ },
+ {
+  "name": "FUN_00994cc0",
+  "address": "0x00994CC0",
+  "bytes": 30,
+  "gate": "player-movement dual-linked switch C",
+  "source": "src/game/player_movement_readable_switches.c",
+  "line": 22
+ },
+ {
+  "name": "FUN_00994e70",
+  "address": "0x00994E70",
+  "bytes": 30,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_00994e70.c"
+ },
+ {
+  "name": "FUN_00997300",
+  "address": "0x00997300",
+  "bytes": 39,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 634
+ },
+ {
+  "name": "FUN_00997d50",
+  "address": "0x00997D50",
+  "bytes": 22,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 1159
+ },
+ {
+  "name": "FUN_00999280",
+  "address": "0x00999280",
+  "bytes": 22,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 1169
+ },
+ {
+  "name": "FUN_00999ee0",
+  "address": "0x00999EE0",
+  "bytes": 22,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 1179
+ },
+ {
+  "name": "FUN_0099bad0",
+  "address": "0x0099BAD0",
+  "bytes": 57,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_0099bad0.c"
+ },
+ {
+  "name": "FUN_0099ed30",
+  "address": "0x0099ED30",
+  "bytes": 39,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_0099ed30.c"
+ },
+ {
+  "name": "FUN_0099f590",
+  "address": "0x0099F590",
+  "bytes": 17,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 68
+ },
+ {
+  "name": "FUN_009a0270",
+  "address": "0x009A0270",
+  "bytes": 50,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_009a0270.c"
+ },
+ {
+  "name": "FUN_009a37a0",
+  "address": "0x009A37A0",
+  "bytes": 143,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 891
+ },
+ {
+  "name": "FUN_009b0860",
+  "address": "0x009B0860",
+  "bytes": 89,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2750
+ },
+ {
+  "name": "FUN_009b3680",
+  "address": "0x009B3680",
+  "bytes": 68,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 340
+ },
+ {
+  "name": "FUN_009b36f0",
+  "address": "0x009B36F0",
+  "bytes": 16,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 88
+ },
+ {
+  "name": "FUN_009b3710",
+  "address": "0x009B3710",
+  "bytes": 52,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 949
+ },
+ {
+  "name": "FUN_009b38c0",
+  "address": "0x009B38C0",
+  "bytes": 65,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3440
+ },
+ {
+  "name": "FUN_009b3980",
+  "address": "0x009B3980",
+  "bytes": 73,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1780
+ },
+ {
+  "name": "FUN_009b73f0",
+  "address": "0x009B73F0",
+  "bytes": 84,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_009b73f0.c"
+ },
+ {
+  "name": "FUN_009b7450",
+  "address": "0x009B7450",
+  "bytes": 25,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 13
+ },
+ {
+  "name": "FUN_009b7880",
+  "address": "0x009B7880",
+  "bytes": 22,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 1149
+ },
+ {
+  "name": "FUN_009b7980",
+  "address": "0x009B7980",
+  "bytes": 65,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 288
+ },
+ {
+  "name": "FUN_009b8a30",
+  "address": "0x009B8A30",
+  "bytes": 20,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3186
+ },
+ {
+  "name": "FUN_009b9030",
+  "address": "0x009B9030",
+  "bytes": 50,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2396
+ },
+ {
+  "name": "FUN_009b9070",
+  "address": "0x009B9070",
+  "bytes": 50,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2416
+ },
+ {
+  "name": "FUN_009b9320",
+  "address": "0x009B9320",
+  "bytes": 43,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2380
+ },
+ {
+  "name": "FUN_009b9350",
+  "address": "0x009B9350",
+  "bytes": 43,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2359
+ },
+ {
+  "name": "FUN_009c19e0",
+  "address": "0x009C19E0",
+  "bytes": 76,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2515
+ },
+ {
+  "name": "FUN_009c2f40",
+  "address": "0x009C2F40",
+  "bytes": 33,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2015
+ },
+ {
+  "name": "FUN_009c3a90",
+  "address": "0x009C3A90",
+  "bytes": 111,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1007
+ },
+ {
+  "name": "FUN_009c4060",
+  "address": "0x009C4060",
+  "bytes": 65,
+  "gate": "player-movement dual-linked switch C",
+  "source": "src/game/player_movement_readable_switches.c",
+  "line": 91
+ },
+ {
+  "name": "FUN_009c4370",
+  "address": "0x009C4370",
+  "bytes": 49,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 758
+ },
+ {
+  "name": "FUN_009c43b0",
+  "address": "0x009C43B0",
+  "bytes": 70,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 739
+ },
+ {
+  "name": "FUN_009c4ff0",
+  "address": "0x009C4FF0",
+  "bytes": 36,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 86
+ },
+ {
+  "name": "FUN_009c6060",
+  "address": "0x009C6060",
+  "bytes": 51,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3173
+ },
+ {
+  "name": "FUN_009c60a0",
+  "address": "0x009C60A0",
+  "bytes": 53,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 93
+ },
+ {
+  "name": "FUN_009c9af0",
+  "address": "0x009C9AF0",
+  "bytes": 30,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 78
+ },
+ {
+  "name": "FUN_009cbb00",
+  "address": "0x009CBB00",
+  "bytes": 115,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 806
+ },
+ {
+  "name": "FUN_009cbb80",
+  "address": "0x009CBB80",
+  "bytes": 108,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 858
+ },
+ {
+  "name": "FUN_009cbc60",
+  "address": "0x009CBC60",
+  "bytes": 57,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 358
+ },
+ {
+  "name": "FUN_009cc540",
+  "address": "0x009CC540",
+  "bytes": 120,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2629
+ },
+ {
+  "name": "FUN_009cce00",
+  "address": "0x009CCE00",
+  "bytes": 10,
+  "gate": "npc-ai-readable",
+  "source": "src/game/npc_ai_trials/FUN_009cce00.c"
+ },
+ {
+  "name": "FUN_009ce060",
+  "address": "0x009CE060",
+  "bytes": 57,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_009ce060.c"
+ },
+ {
+  "name": "FUN_009d06a0",
+  "address": "0x009D06A0",
+  "bytes": 56,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 611
+ },
+ {
+  "name": "FUN_009d7dd0",
+  "address": "0x009D7DD0",
+  "bytes": 56,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 823
+ },
+ {
+  "name": "FUN_009e7530",
+  "address": "0x009E7530",
+  "bytes": 41,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_009e7530.c"
+ },
+ {
+  "name": "FUN_009f1740",
+  "address": "0x009F1740",
+  "bytes": 25,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 166
+ },
+ {
+  "name": "FUN_009f1760",
+  "address": "0x009F1760",
+  "bytes": 61,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 376
+ },
+ {
+  "name": "FUN_009f17a0",
+  "address": "0x009F17A0",
+  "bytes": 39,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 441
+ },
+ {
+  "name": "FUN_009f22e0",
+  "address": "0x009F22E0",
+  "bytes": 45,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 582
+ },
+ {
+  "name": "FUN_009f58d0",
+  "address": "0x009F58D0",
+  "bytes": 28,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1998
+ },
+ {
+  "name": "FUN_00a00050",
+  "address": "0x00A00050",
+  "bytes": 47,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1328
+ },
+ {
+  "name": "FUN_00a009c0",
+  "address": "0x00A009C0",
+  "bytes": 38,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2881
+ },
+ {
+  "name": "FUN_00a01910",
+  "address": "0x00A01910",
+  "bytes": 17,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_00a01910.c"
+ },
+ {
+  "name": "FUN_00a02ea0",
+  "address": "0x00A02EA0",
+  "bytes": 23,
+  "gate": "first-mission-readable",
+  "source": "src/game/first_mission_trials/FUN_00a02ea0.c"
+ },
+ {
+  "name": "FUN_00a058a0",
+  "address": "0x00A058A0",
+  "bytes": 32,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2456
+ },
+ {
+  "name": "FUN_00a15b20",
+  "address": "0x00A15B20",
+  "bytes": 107,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1371
+ },
+ {
+  "name": "FUN_00a18460",
+  "address": "0x00A18460",
+  "bytes": 160,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2563
+ },
+ {
+  "name": "FUN_00a1f610",
+  "address": "0x00A1F610",
+  "bytes": 27,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2899
+ },
+ {
+  "name": "FUN_00a2ce20",
+  "address": "0x00A2CE20",
+  "bytes": 101,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_00a2ce20.c"
+ },
+ {
+  "name": "FUN_00a2d8a0",
+  "address": "0x00A2D8A0",
+  "bytes": 35,
+  "gate": "npc-ai-readable",
+  "source": "src/game/npc_ai_trials/FUN_00a2d8a0.c"
+ },
+ {
+  "name": "FUN_00a2d8d0",
+  "address": "0x00A2D8D0",
+  "bytes": 35,
+  "gate": "npc-ai-readable",
+  "source": "src/game/npc_ai_trials/FUN_00a2d8d0.c"
+ },
+ {
+  "name": "FUN_00a3cdf0",
+  "address": "0x00A3CDF0",
+  "bytes": 13,
+  "gate": "npc-ai-readable",
+  "source": "src/game/npc_ai_trials/FUN_00a3cdf0.c"
+ },
+ {
+  "name": "FUN_00a3cfe0",
+  "address": "0x00A3CFE0",
+  "bytes": 11,
+  "gate": "npc-ai-readable",
+  "source": "src/game/npc_ai_trials/FUN_00a3cfe0.c"
+ },
+ {
+  "name": "FUN_00a45670",
+  "address": "0x00A45670",
+  "bytes": 39,
+  "gate": "traffic-rea-private-calls_a",
+  "source": "src/game/traffic_rea_private_trials/calls_a/FUN_00a45670.c"
+ },
+ {
+  "name": "FUN_00a45b90",
+  "address": "0x00A45B90",
+  "bytes": 59,
+  "gate": "cutscene-readable",
+  "source": "src/game/cutscene_trials/FUN_00a45b90.c"
+ },
+ {
+  "name": "FUN_00a46320",
+  "address": "0x00A46320",
+  "bytes": 21,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 159
+ },
+ {
+  "name": "FUN_00a57700",
+  "address": "0x00A57700",
+  "bytes": 35,
+  "gate": "npc-ai-readable",
+  "source": "src/game/npc_ai_trials/FUN_00a57700.c"
+ },
+ {
+  "name": "FUN_00a59200",
+  "address": "0x00A59200",
+  "bytes": 60,
+  "gate": "traffic-rea-private-calls_a",
+  "source": "src/game/traffic_rea_private_trials/calls_a/FUN_00a59200.c"
+ },
+ {
+  "name": "FUN_00a5b7e0",
+  "address": "0x00A5B7E0",
+  "bytes": 17,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3055
+ },
+ {
+  "name": "FUN_00a60030",
+  "address": "0x00A60030",
+  "bytes": 10,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00a60030.c"
+ },
+ {
+  "name": "FUN_00a60040",
+  "address": "0x00A60040",
+  "bytes": 7,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00a60040.c"
+ },
+ {
+  "name": "FUN_00a60050",
+  "address": "0x00A60050",
+  "bytes": 7,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00a60050.c"
+ },
+ {
+  "name": "FUN_00a60df0",
+  "address": "0x00A60DF0",
+  "bytes": 12,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00a60df0.c"
+ },
+ {
+  "name": "FUN_00a62d90",
+  "address": "0x00A62D90",
+  "bytes": 7,
+  "gate": "npc-ai-rea-next-d-readable",
+  "source": "src/game/npc_ai_rea_next_d_trials/FUN_00a62d90.c"
+ },
+ {
+  "name": "FUN_00a64240",
+  "address": "0x00A64240",
+  "bytes": 5,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00a64240.c"
+ },
+ {
+  "name": "FUN_00a642f0",
+  "address": "0x00A642F0",
+  "bytes": 10,
+  "gate": "npc-ai-rea-virtual-readable",
+  "source": "src/game/npc_ai_rea_virtual_trials/FUN_00a642f0.c"
+ },
+ {
+  "name": "FUN_00a669d0",
+  "address": "0x00A669D0",
+  "bytes": 46,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1241
+ },
+ {
+  "name": "FUN_00a72c70",
+  "address": "0x00A72C70",
+  "bytes": 153,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_00a72c70.c"
+ },
+ {
+  "name": "FUN_00a72d10",
+  "address": "0x00A72D10",
+  "bytes": 132,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_00a72d10.c"
+ },
+ {
+  "name": "FUN_00a8d640",
+  "address": "0x00A8D640",
+  "bytes": 181,
+  "gate": "npc-ai-rea-next-b-readable",
+  "source": "src/game/npc_ai_rea_next_b_trials/FUN_00a8d640.c"
+ },
+ {
+  "name": "FUN_00aa6fb0",
+  "address": "0x00AA6FB0",
+  "bytes": 19,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_00aa6fb0.c"
+ },
+ {
+  "name": "FUN_00aa7380",
+  "address": "0x00AA7380",
+  "bytes": 52,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1170
+ },
+ {
+  "name": "FUN_00aa7460",
+  "address": "0x00AA7460",
+  "bytes": 52,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1144
+ },
+ {
+  "name": "FUN_00aa7500",
+  "address": "0x00AA7500",
+  "bytes": 52,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1157
+ },
+ {
+  "name": "FUN_00aa7d30",
+  "address": "0x00AA7D30",
+  "bytes": 84,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_00aa7d30.c"
+ },
+ {
+  "name": "FUN_00aa8340",
+  "address": "0x00AA8340",
+  "bytes": 47,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1662
+ },
+ {
+  "name": "FUN_00aab370",
+  "address": "0x00AAB370",
+  "bytes": 61,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1203
+ },
+ {
+  "name": "FUN_00aabff0",
+  "address": "0x00AABFF0",
+  "bytes": 30,
+  "gate": "npc-ai-rea-a-private",
+  "source": "src/game/npc_ai_rea_a_private_trials/FUN_00aabff0.c"
+ },
+ {
+  "name": "FUN_00ab1740",
+  "address": "0x00AB1740",
+  "bytes": 50,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2032
+ },
+ {
+  "name": "FUN_00ab4af0",
+  "address": "0x00AB4AF0",
+  "bytes": 35,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1516
+ },
+ {
+  "name": "FUN_00ab5140",
+  "address": "0x00AB5140",
+  "bytes": 28,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2855
+ },
+ {
+  "name": "FUN_00ab5190",
+  "address": "0x00AB5190",
+  "bytes": 28,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1286
+ },
+ {
+  "name": "FUN_00ab51b0",
+  "address": "0x00AB51B0",
+  "bytes": 28,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1291
+ },
+ {
+  "name": "FUN_00ab51d0",
+  "address": "0x00AB51D0",
+  "bytes": 28,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2847
+ },
+ {
+  "name": "FUN_00ab5280",
+  "address": "0x00AB5280",
+  "bytes": 36,
+  "gate": "npc-ai-rea-a-named-data",
+  "source": "src/game/npc_ai_rea_a_named_data_trials/FUN_00ab5280.c"
+ },
+ {
+  "name": "FUN_00ab53c0",
+  "address": "0x00AB53C0",
+  "bytes": 21,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1054
+ },
+ {
+  "name": "FUN_00ab6a50",
+  "address": "0x00AB6A50",
+  "bytes": 21,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2861
+ },
+ {
+  "name": "FUN_00ab8d70",
+  "address": "0x00AB8D70",
+  "bytes": 64,
+  "gate": "cutscene-standin",
+  "source": "src/game/cutscene_standin_trials/FUN_00ab8d70.c"
+ },
+ {
+  "name": "FUN_00ac0290",
+  "address": "0x00AC0290",
+  "bytes": 56,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1343
+ },
+ {
+  "name": "FUN_00ae28f0",
+  "address": "0x00AE28F0",
+  "bytes": 47,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 625
+ },
+ {
+  "name": "FUN_00b02600",
+  "address": "0x00B02600",
+  "bytes": 94,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 771
+ },
+ {
+  "name": "FUN_00b07a30",
+  "address": "0x00B07A30",
+  "bytes": 96,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2333
+ },
+ {
+  "name": "FUN_00b07e30",
+  "address": "0x00B07E30",
+  "bytes": 41,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1547
+ },
+ {
+  "name": "FUN_00b0a670",
+  "address": "0x00B0A670",
+  "bytes": 246,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2699
+ },
+ {
+  "name": "FUN_00b168f0",
+  "address": "0x00B168F0",
+  "bytes": 30,
+  "gate": "npc-ai-readable",
+  "source": "src/game/npc_ai_trials/FUN_00b168f0.c"
+ },
+ {
+  "name": "FUN_00b16980",
+  "address": "0x00B16980",
+  "bytes": 43,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 2050
+ },
+ {
+  "name": "FUN_00b27550",
+  "address": "0x00B27550",
+  "bytes": 48,
+  "gate": "traffic-rea-private-calls_d",
+  "source": "src/game/traffic_rea_private_trials/calls_d/FUN_00b27550.c"
+ },
+ {
+  "name": "FUN_00b38e40",
+  "address": "0x00B38E40",
+  "bytes": 124,
+  "gate": "npc-ai-rea-next-d-readable",
+  "source": "src/game/npc_ai_rea_next_d_trials/FUN_00b38e40.c"
+ },
+ {
+  "name": "FUN_00b39140",
+  "address": "0x00B39140",
+  "bytes": 25,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00b39140.c"
+ },
+ {
+  "name": "FUN_00b39160",
+  "address": "0x00B39160",
+  "bytes": 25,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00b39160.c"
+ },
+ {
+  "name": "FUN_00b39180",
+  "address": "0x00B39180",
+  "bytes": 19,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00b39180.c"
+ },
+ {
+  "name": "FUN_00b391a0",
+  "address": "0x00B391A0",
+  "bytes": 6,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00b391a0.c"
+ },
+ {
+  "name": "FUN_00b392c0",
+  "address": "0x00B392C0",
+  "bytes": 19,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00b392c0.c"
+ },
+ {
+  "name": "FUN_00b392e0",
+  "address": "0x00B392E0",
+  "bytes": 27,
+  "gate": "npc-ai-rea-virtual-readable",
+  "source": "src/game/npc_ai_rea_virtual_trials/FUN_00b392e0.c"
+ },
+ {
+  "name": "FUN_00b5fe30",
+  "address": "0x00B5FE30",
+  "bytes": 29,
+  "gate": "npc-ai-readable",
+  "source": "src/game/npc_ai_trials/FUN_00b5fe30.c"
+ },
+ {
+  "name": "FUN_00b65930",
+  "address": "0x00B65930",
+  "bytes": 124,
+  "gate": "npc-ai-rea-next-d-readable",
+  "source": "src/game/npc_ai_rea_next_d_trials/FUN_00b65930.c"
+ },
+ {
+  "name": "FUN_00b65c30",
+  "address": "0x00B65C30",
+  "bytes": 25,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00b65c30.c"
+ },
+ {
+  "name": "FUN_00b65c50",
+  "address": "0x00B65C50",
+  "bytes": 25,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00b65c50.c"
+ },
+ {
+  "name": "FUN_00b65c70",
+  "address": "0x00B65C70",
+  "bytes": 19,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00b65c70.c"
+ },
+ {
+  "name": "FUN_00b65c90",
+  "address": "0x00B65C90",
+  "bytes": 6,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00b65c90.c"
+ },
+ {
+  "name": "FUN_00b65db0",
+  "address": "0x00B65DB0",
+  "bytes": 19,
+  "gate": "npc-ai-rea-unregistered-readable",
+  "source": "src/game/npc_ai_rea_unregistered_trials/FUN_00b65db0.c"
+ },
+ {
+  "name": "FUN_00b65dd0",
+  "address": "0x00B65DD0",
+  "bytes": 27,
+  "gate": "npc-ai-rea-virtual-readable",
+  "source": "src/game/npc_ai_rea_virtual_trials/FUN_00b65dd0.c"
+ },
+ {
+  "name": "FUN_00b71790",
+  "address": "0x00B71790",
+  "bytes": 37,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_00b71790.c"
+ },
+ {
+  "name": "FUN_00b71a60",
+  "address": "0x00B71A60",
+  "bytes": 49,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1676
+ },
+ {
+  "name": "FUN_00b72740",
+  "address": "0x00B72740",
+  "bytes": 35,
+  "gate": "player-movement dual-linked switch C",
+  "source": "src/game/player_movement_readable_switches.c",
+  "line": 211
+ },
+ {
+  "name": "FUN_00b72800",
+  "address": "0x00B72800",
+  "bytes": 32,
+  "gate": "player-movement dual-linked switch C",
+  "source": "src/game/player_movement_readable_switches.c",
+  "line": 43
+ },
+ {
+  "name": "FUN_00b72c40",
+  "address": "0x00B72C40",
+  "bytes": 19,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1269
+ },
+ {
+  "name": "FUN_00b72c80",
+  "address": "0x00B72C80",
+  "bytes": 27,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_00b72c80.c"
+ },
+ {
+  "name": "FUN_00b72ca0",
+  "address": "0x00B72CA0",
+  "bytes": 53,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3001
+ },
+ {
+  "name": "FUN_00b72e90",
+  "address": "0x00B72E90",
+  "bytes": 29,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3065
+ },
+ {
+  "name": "FUN_00b72eb0",
+  "address": "0x00B72EB0",
+  "bytes": 19,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1029
+ },
+ {
+  "name": "FUN_00b72ed0",
+  "address": "0x00B72ED0",
+  "bytes": 19,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1039
+ },
+ {
+  "name": "FUN_00b73b70",
+  "address": "0x00B73B70",
+  "bytes": 57,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1361
+ },
+ {
+  "name": "FUN_00b74120",
+  "address": "0x00B74120",
+  "bytes": 94,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_00b74120.c"
+ },
+ {
+  "name": "FUN_00b7f020",
+  "address": "0x00B7F020",
+  "bytes": 69,
+  "gate": "traffic-rea-private-calls_a",
+  "source": "src/game/traffic_rea_private_trials/calls_a/FUN_00b7f020.c"
+ },
+ {
+  "name": "FUN_00b7f950",
+  "address": "0x00B7F950",
+  "bytes": 44,
+  "gate": "traffic-rea-private-calls_c",
+  "source": "src/game/traffic_rea_private_trials/calls_c/FUN_00b7f950.c"
+ },
+ {
+  "name": "FUN_00b819e0",
+  "address": "0x00B819E0",
+  "bytes": 30,
+  "gate": "traffic-rea-leaf_a",
+  "source": "src/game/traffic_rea_trials/leaf_a/FUN_00b819e0.c"
+ },
+ {
+  "name": "FUN_00b81a00",
+  "address": "0x00B81A00",
+  "bytes": 30,
+  "gate": "traffic-rea-leaf_b",
+  "source": "src/game/traffic_rea_trials/leaf_b/FUN_00b81a00.c"
+ },
+ {
+  "name": "FUN_00b81a20",
+  "address": "0x00B81A20",
+  "bytes": 24,
+  "gate": "traffic-rea-leaf_a",
+  "source": "src/game/traffic_rea_trials/leaf_a/FUN_00b81a20.c"
+ },
+ {
+  "name": "FUN_00b81a40",
+  "address": "0x00B81A40",
+  "bytes": 6,
+  "gate": "traffic-rea-leaf_b",
+  "source": "src/game/traffic_rea_trials/leaf_b/FUN_00b81a40.c"
+ },
+ {
+  "name": "FUN_00b81b40",
+  "address": "0x00B81B40",
+  "bytes": 19,
+  "gate": "traffic-rea-leaf_a",
+  "source": "src/game/traffic_rea_trials/leaf_a/FUN_00b81b40.c"
+ },
+ {
+  "name": "FUN_00b8a2c0",
+  "address": "0x00B8A2C0",
+  "bytes": 26,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 938
+ },
+ {
+  "name": "FUN_00b8a2e0",
+  "address": "0x00B8A2E0",
+  "bytes": 21,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 956
+ },
+ {
+  "name": "FUN_00b942d0",
+  "address": "0x00B942D0",
+  "bytes": 163,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_00b942d0.c"
+ },
+ {
+  "name": "FUN_00ba0850",
+  "address": "0x00BA0850",
+  "bytes": 22,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 919
+ },
+ {
+  "name": "FUN_00ba45c0",
+  "address": "0x00BA45C0",
+  "bytes": 66,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 1011
+ },
+ {
+  "name": "FUN_00bdd100",
+  "address": "0x00BDD100",
+  "bytes": 43,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1182
+ },
+ {
+  "name": "FUN_00bdd230",
+  "address": "0x00BDD230",
+  "bytes": 42,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3428
+ },
+ {
+  "name": "FUN_00bdd260",
+  "address": "0x00BDD260",
+  "bytes": 62,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_00bdd260.c"
+ },
+ {
+  "name": "FUN_00bdd2a0",
+  "address": "0x00BDD2A0",
+  "bytes": 70,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 442
+ },
+ {
+  "name": "FUN_00bde500",
+  "address": "0x00BDE500",
+  "bytes": 111,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 1930
+ },
+ {
+  "name": "FUN_00bde570",
+  "address": "0x00BDE570",
+  "bytes": 111,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 507
+ },
+ {
+  "name": "FUN_00bdea30",
+  "address": "0x00BDEA30",
+  "bytes": 71,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 560
+ },
+ {
+  "name": "FUN_00bdea80",
+  "address": "0x00BDEA80",
+  "bytes": 47,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 577
+ },
+ {
+  "name": "FUN_00be2c60",
+  "address": "0x00BE2C60",
+  "bytes": 53,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 468
+ },
+ {
+  "name": "FUN_00bfbee0",
+  "address": "0x00BFBEE0",
+  "bytes": 47,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_00bfbee0.c"
+ },
+ {
+  "name": "FUN_00bfc110",
+  "address": "0x00BFC110",
+  "bytes": 57,
+  "gate": "cutscene-private",
+  "source": "src/game/cutscene_private_trials/FUN_00bfc110.c"
+ },
+ {
+  "name": "FUN_00bfdb20",
+  "address": "0x00BFDB20",
+  "bytes": 48,
+  "gate": "npc-ai-private",
+  "source": "src/game/npc_ai_private_trials/FUN_00bfdb20.c"
+ },
+ {
+  "name": "FUN_00c229b0",
+  "address": "0x00C229B0",
+  "bytes": 43,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3014
+ },
+ {
+  "name": "FUN_00c9953e",
+  "address": "0x00C9953E",
+  "bytes": 22,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_00c9953e.c"
+ },
+ {
+  "name": "FUN_00cdd1e0",
+  "address": "0x00CDD1E0",
+  "bytes": 43,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 1042
+ },
+ {
+  "name": "FUN_00cdfc80",
+  "address": "0x00CDFC80",
+  "bytes": 38,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 988
+ },
+ {
+  "name": "FUN_00cdfcb0",
+  "address": "0x00CDFCB0",
+  "bytes": 37,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 971
+ },
+ {
+  "name": "FUN_00cdfd20",
+  "address": "0x00CDFD20",
+  "bytes": 30,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 1030
+ },
+ {
+  "name": "FUN_00ce2f70",
+  "address": "0x00CE2F70",
+  "bytes": 46,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3034
+ },
+ {
+  "name": "FUN_00ce5340",
+  "address": "0x00CE5340",
+  "bytes": 48,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 880
+ },
+ {
+  "name": "FUN_00ce71b0",
+  "address": "0x00CE71B0",
+  "bytes": 58,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3120
+ },
+ {
+  "name": "FUN_00cec1e0",
+  "address": "0x00CEC1E0",
+  "bytes": 188,
+  "gate": "npc-ai-named-data",
+  "source": "src/game/npc_ai_named_data_trials/FUN_00cec1e0.c"
+ },
+ {
+  "name": "FUN_00cedc10",
+  "address": "0x00CEDC10",
+  "bytes": 52,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 855
+ },
+ {
+  "name": "FUN_00cedc90",
+  "address": "0x00CEDC90",
+  "bytes": 72,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 866
+ },
+ {
+  "name": "FUN_00d3ffb0",
+  "address": "0x00D3FFB0",
+  "bytes": 80,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 1078
+ },
+ {
+  "name": "FUN_00d53180",
+  "address": "0x00D53180",
+  "bytes": 64,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3101
+ },
+ {
+  "name": "FUN_00d56830",
+  "address": "0x00D56830",
+  "bytes": 30,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 907
+ },
+ {
+  "name": "FUN_00d776d0",
+  "address": "0x00D776D0",
+  "bytes": 71,
+  "gate": "player-movement dual-linked LTCG",
+  "source": "src/game/player_movement_readable_ltcg.c",
+  "line": 3151
+ },
+ {
+  "name": "FUN_00d82300",
+  "address": "0x00D82300",
+  "bytes": 30,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 892
+ },
+ {
+  "name": "FUN_00d94210",
+  "address": "0x00D94210",
+  "bytes": 78,
+  "gate": "player-movement COFF+linked",
+  "source": "src/game/player_movement_readable.c",
+  "line": 1094
+ }
+]
