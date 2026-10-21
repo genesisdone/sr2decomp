@@ -1,6 +1,6 @@
 # Published functions
 
-858 distinct original functions retained; 3 revalidated for this publication.
+865 distinct original functions retained; 10 revalidated for this publication.
 
 Only rows marked `current` below were checked against current private gate fingerprints and complete
 two-image certificates in this run. Other rows preserve previous publication claims without
@@ -49,6 +49,7 @@ revalidating their historical certificates. No comparison executable was execute
 | FUN_0047ced0 | 0x0047CED0 | 90 | preserved; not revalidated | player-movement dual-linked LTCG | [src/game/player_movement_readable_ltcg.c](src/game/player_movement_readable_ltcg.c) |
 | FUN_004803f0 | 0x004803F0 | 73 | preserved; not revalidated | npc-ai-readable | [src/game/npc_ai_trials/FUN_004803f0.c](src/game/npc_ai_trials/FUN_004803f0.c) |
 | FUN_004892e0 | 0x004892E0 | 45 | preserved; not revalidated | player-movement dual-linked LTCG | [src/game/player_movement_readable_ltcg.c](src/game/player_movement_readable_ltcg.c) |
+| FUN_00493c10 | 0x00493C10 | 33 | current | optimization-rea-private-leaf_a | [src/game/optimization_rea_private_trials/leaf_a/FUN_00493c10.c](src/game/optimization_rea_private_trials/leaf_a/FUN_00493c10.c) |
 | FUN_00495240 | 0x00495240 | 101 | preserved; not revalidated | cutscene-readable | [src/game/cutscene_trials/FUN_00495240.c](src/game/cutscene_trials/FUN_00495240.c) |
 | FUN_004998e0 | 0x004998E0 | 43 | preserved; not revalidated | player-movement dual-linked LTCG | [src/game/player_movement_readable_ltcg.c](src/game/player_movement_readable_ltcg.c) |
 | FUN_0049d320 | 0x0049D320 | 45 | preserved; not revalidated | player-movement dual-linked LTCG | [src/game/player_movement_readable_ltcg.c](src/game/player_movement_readable_ltcg.c) |
@@ -63,6 +64,7 @@ revalidating their historical certificates. No comparison executable was execute
 | FUN_004b4470 | 0x004B4470 | 22 | current | optimization-rea-leaf_a | [src/game/optimization_rea_trials/leaf_a/FUN_004b4470.c](src/game/optimization_rea_trials/leaf_a/FUN_004b4470.c) |
 | FUN_004b45f0 | 0x004B45F0 | 22 | current | optimization-rea-leaf_a | [src/game/optimization_rea_trials/leaf_a/FUN_004b45f0.c](src/game/optimization_rea_trials/leaf_a/FUN_004b45f0.c) |
 | FUN_004b4610 | 0x004B4610 | 24 | current | optimization-rea-leaf_a | [src/game/optimization_rea_trials/leaf_a/FUN_004b4610.c](src/game/optimization_rea_trials/leaf_a/FUN_004b4610.c) |
+| FUN_004b9570 | 0x004B9570 | 35 | current | optimization-rea-private-leaf_a | [src/game/optimization_rea_private_trials/leaf_a/FUN_004b9570.c](src/game/optimization_rea_private_trials/leaf_a/FUN_004b9570.c) |
 | FUN_004c8b30 | 0x004C8B30 | 75 | preserved; not revalidated | cutscene-standin | [src/game/cutscene_standin_trials/FUN_004c8b30.c](src/game/cutscene_standin_trials/FUN_004c8b30.c) |
 | FUN_004cd150 | 0x004CD150 | 65 | preserved; not revalidated | cutscene-private | [src/game/cutscene_private_trials/FUN_004cd150.c](src/game/cutscene_private_trials/FUN_004cd150.c) |
 | FUN_004d1900 | 0x004D1900 | 24 | preserved; not revalidated | first-mission-readable | [src/game/first_mission_trials/FUN_004d1900.c](src/game/first_mission_trials/FUN_004d1900.c) |
@@ -393,6 +395,7 @@ revalidating their historical certificates. No comparison executable was execute
 | FUN_006d9090 | 0x006D9090 | 35 | preserved; not revalidated | cutscene-readable | [src/game/cutscene_trials/FUN_006d9090.c](src/game/cutscene_trials/FUN_006d9090.c) |
 | FUN_006d9400 | 0x006D9400 | 55 | preserved; not revalidated | cutscene-standin | [src/game/cutscene_standin_trials/FUN_006d9400.c](src/game/cutscene_standin_trials/FUN_006d9400.c) |
 | FUN_006d9530 | 0x006D9530 | 209 | preserved; not revalidated | cutscene-private | [src/game/cutscene_private_trials/FUN_006d9530.c](src/game/cutscene_private_trials/FUN_006d9530.c) |
+| FUN_006e1280 | 0x006E1280 | 21 | current | optimization-rea-private-leaf_a | [src/game/optimization_rea_private_trials/leaf_a/FUN_006e1280.c](src/game/optimization_rea_private_trials/leaf_a/FUN_006e1280.c) |
 | FUN_006e8480 | 0x006E8480 | 23 | preserved; not revalidated | first-mission-readable | [src/game/first_mission_trials/FUN_006e8480.c](src/game/first_mission_trials/FUN_006e8480.c) |
 | FUN_006e9340 | 0x006E9340 | 24 | preserved; not revalidated | player-movement dual-linked LTCG | [src/game/player_movement_readable_ltcg.c](src/game/player_movement_readable_ltcg.c) |
 | FUN_006e9fe0 | 0x006E9FE0 | 103 | preserved; not revalidated | npc-ai-named-data | [src/game/npc_ai_named_data_trials/FUN_006e9fe0.c](src/game/npc_ai_named_data_trials/FUN_006e9fe0.c) |
@@ -696,6 +699,7 @@ revalidating their historical certificates. No comparison executable was execute
 | FUN_009cfb30 | 0x009CFB30 | 84 | preserved; not revalidated | npc-ai-rea-next-e-private | [src/game/npc_ai_rea_next_e_trials/FUN_009cfb30.c](src/game/npc_ai_rea_next_e_trials/FUN_009cfb30.c) |
 | FUN_009d06a0 | 0x009D06A0 | 56 | preserved; not revalidated | player-movement dual-linked LTCG | [src/game/player_movement_readable_ltcg.c](src/game/player_movement_readable_ltcg.c) |
 | FUN_009d7dd0 | 0x009D7DD0 | 56 | preserved; not revalidated | player-movement dual-linked LTCG | [src/game/player_movement_readable_ltcg.c](src/game/player_movement_readable_ltcg.c) |
+| FUN_009e53b0 | 0x009E53B0 | 46 | current | optimization-rea-private-leaf_a | [src/game/optimization_rea_private_trials/leaf_a/FUN_009e53b0.c](src/game/optimization_rea_private_trials/leaf_a/FUN_009e53b0.c) |
 | FUN_009e7530 | 0x009E7530 | 41 | preserved; not revalidated | cutscene-private | [src/game/cutscene_private_trials/FUN_009e7530.c](src/game/cutscene_private_trials/FUN_009e7530.c) |
 | FUN_009f1740 | 0x009F1740 | 25 | preserved; not revalidated | player-movement COFF+linked | [src/game/player_movement_readable.c](src/game/player_movement_readable.c) |
 | FUN_009f1760 | 0x009F1760 | 61 | preserved; not revalidated | player-movement COFF+linked | [src/game/player_movement_readable.c](src/game/player_movement_readable.c) |
@@ -746,6 +750,8 @@ revalidating their historical certificates. No comparison executable was execute
 | FUN_00a72800 | 0x00A72800 | 196 | preserved; not revalidated | npc-ai-rea-next-e-private | [src/game/npc_ai_rea_next_e_trials/FUN_00a72800.c](src/game/npc_ai_rea_next_e_trials/FUN_00a72800.c) |
 | FUN_00a72c70 | 0x00A72C70 | 153 | preserved; not revalidated | npc-ai-private | [src/game/npc_ai_private_trials/FUN_00a72c70.c](src/game/npc_ai_private_trials/FUN_00a72c70.c) |
 | FUN_00a72d10 | 0x00A72D10 | 132 | preserved; not revalidated | npc-ai-private | [src/game/npc_ai_private_trials/FUN_00a72d10.c](src/game/npc_ai_private_trials/FUN_00a72d10.c) |
+| FUN_00a7d5a0 | 0x00A7D5A0 | 46 | current | optimization-rea-leaf_b | [src/game/optimization_rea_trials/leaf_b/FUN_00a7d5a0.c](src/game/optimization_rea_trials/leaf_b/FUN_00a7d5a0.c) |
+| FUN_00a7d6a0 | 0x00A7D6A0 | 39 | current | optimization-rea-leaf_b | [src/game/optimization_rea_trials/leaf_b/FUN_00a7d6a0.c](src/game/optimization_rea_trials/leaf_b/FUN_00a7d6a0.c) |
 | FUN_00a88bc0 | 0x00A88BC0 | 263 | preserved; not revalidated | npc-ai-rea-next-e-private | [src/game/npc_ai_rea_next_e_trials/FUN_00a88bc0.c](src/game/npc_ai_rea_next_e_trials/FUN_00a88bc0.c) |
 | FUN_00a8d640 | 0x00A8D640 | 181 | preserved; not revalidated | npc-ai-rea-next-b-readable | [src/game/npc_ai_rea_next_b_trials/FUN_00a8d640.c](src/game/npc_ai_rea_next_b_trials/FUN_00a8d640.c) |
 | FUN_00aa6fb0 | 0x00AA6FB0 | 19 | preserved; not revalidated | npc-ai-private | [src/game/npc_ai_private_trials/FUN_00aa6fb0.c](src/game/npc_ai_private_trials/FUN_00aa6fb0.c) |
@@ -844,6 +850,7 @@ revalidating their historical certificates. No comparison executable was execute
 | FUN_00bdea30 | 0x00BDEA30 | 71 | preserved; not revalidated | player-movement dual-linked LTCG | [src/game/player_movement_readable_ltcg.c](src/game/player_movement_readable_ltcg.c) |
 | FUN_00bdea80 | 0x00BDEA80 | 47 | preserved; not revalidated | player-movement dual-linked LTCG | [src/game/player_movement_readable_ltcg.c](src/game/player_movement_readable_ltcg.c) |
 | FUN_00be2c60 | 0x00BE2C60 | 53 | preserved; not revalidated | player-movement dual-linked LTCG | [src/game/player_movement_readable_ltcg.c](src/game/player_movement_readable_ltcg.c) |
+| FUN_00bf0e00 | 0x00BF0E00 | 46 | current | optimization-rea-leaf_b | [src/game/optimization_rea_trials/leaf_b/FUN_00bf0e00.c](src/game/optimization_rea_trials/leaf_b/FUN_00bf0e00.c) |
 | FUN_00bfbee0 | 0x00BFBEE0 | 47 | preserved; not revalidated | cutscene-private | [src/game/cutscene_private_trials/FUN_00bfbee0.c](src/game/cutscene_private_trials/FUN_00bfbee0.c) |
 | FUN_00bfbf40 | 0x00BFBF40 | 63 | preserved; not revalidated | npc-ai-rea-next-e-private | [src/game/npc_ai_rea_next_e_trials/FUN_00bfbf40.c](src/game/npc_ai_rea_next_e_trials/FUN_00bfbf40.c) |
 | FUN_00bfc110 | 0x00BFC110 | 57 | preserved; not revalidated | cutscene-private | [src/game/cutscene_private_trials/FUN_00bfc110.c](src/game/cutscene_private_trials/FUN_00bfc110.c) |

@@ -346,6 +346,16 @@
   "publication_validation": "preserved from previous publication; not revalidated in this run"
  },
  {
+  "name": "FUN_00493c10",
+  "address": "0x00493C10",
+  "bytes": 33,
+  "gate": "optimization-rea-private-leaf_a",
+  "source": "src/game/optimization_rea_private_trials/leaf_a/FUN_00493c10.c",
+  "publication_validation": "selected gate fingerprints and complete dual-image certificate checked",
+  "source_sha256": "1db43ffa16229a11c205a57863b018e971a039a209a8d9a1d07b3f7de9ae0f3d",
+  "certificate_sha256": "bd1a97dd856762e3eb6306d9f52dfd9a5b909b39e3512cfae001817923bd3dfe"
+ },
+ {
   "name": "FUN_00495240",
   "address": "0x00495240",
   "bytes": 101,
@@ -444,7 +454,7 @@
   "source": "src/game/optimization_rea_trials/leaf_a/FUN_004b4470.c",
   "publication_validation": "selected gate fingerprints and complete dual-image certificate checked",
   "source_sha256": "fbbd322486c8a8f7622ef9c57b5f82264d965eb9d5151ddc362a626c9dade18a",
-  "certificate_sha256": "9c1211e0f24f53177b446fa60c590f745e6117be16d669f1c55249d942a4937d"
+  "certificate_sha256": "3ab1dcb045ad65206802de171092ef4e555f819a59bb3c8a725b1c74e2abfdb0"
  },
  {
   "name": "FUN_004b45f0",
@@ -454,7 +464,7 @@
   "source": "src/game/optimization_rea_trials/leaf_a/FUN_004b45f0.c",
   "publication_validation": "selected gate fingerprints and complete dual-image certificate checked",
   "source_sha256": "de864b23cd4be452d04f5f46dc74ee0d3ab06da8887c282672627219d231286a",
-  "certificate_sha256": "9c1211e0f24f53177b446fa60c590f745e6117be16d669f1c55249d942a4937d"
+  "certificate_sha256": "3ab1dcb045ad65206802de171092ef4e555f819a59bb3c8a725b1c74e2abfdb0"
  },
  {
   "name": "FUN_004b4610",
@@ -464,7 +474,17 @@
   "source": "src/game/optimization_rea_trials/leaf_a/FUN_004b4610.c",
   "publication_validation": "selected gate fingerprints and complete dual-image certificate checked",
   "source_sha256": "c4145eba7a907434adbf19285bb5271249be659d55d89693c363cd7b918bb40f",
-  "certificate_sha256": "9c1211e0f24f53177b446fa60c590f745e6117be16d669f1c55249d942a4937d"
+  "certificate_sha256": "3ab1dcb045ad65206802de171092ef4e555f819a59bb3c8a725b1c74e2abfdb0"
+ },
+ {
+  "name": "FUN_004b9570",
+  "address": "0x004B9570",
+  "bytes": 35,
+  "gate": "optimization-rea-private-leaf_a",
+  "source": "src/game/optimization_rea_private_trials/leaf_a/FUN_004b9570.c",
+  "publication_validation": "selected gate fingerprints and complete dual-image certificate checked",
+  "source_sha256": "70cf3971f3752483bdcaceef23e62155d7f6b767e81160ef51f87b85cd40ef88",
+  "certificate_sha256": "bd1a97dd856762e3eb6306d9f52dfd9a5b909b39e3512cfae001817923bd3dfe"
  },
  {
   "name": "FUN_004c8b30",
@@ -3165,6 +3185,16 @@
   "publication_validation": "preserved from previous publication; not revalidated in this run"
  },
  {
+  "name": "FUN_006e1280",
+  "address": "0x006E1280",
+  "bytes": 21,
+  "gate": "optimization-rea-private-leaf_a",
+  "source": "src/game/optimization_rea_private_trials/leaf_a/FUN_006e1280.c",
+  "publication_validation": "selected gate fingerprints and complete dual-image certificate checked",
+  "source_sha256": "6b0d9fe35b86f545fce7e94220cfb75ceb038f6c2a9fa8961bf86dd40eee7704",
+  "certificate_sha256": "bd1a97dd856762e3eb6306d9f52dfd9a5b909b39e3512cfae001817923bd3dfe"
+ },
+ {
   "name": "FUN_006e8480",
   "address": "0x006E8480",
   "bytes": 23,
@@ -5713,6 +5743,16 @@
   "publication_validation": "preserved from previous publication; not revalidated in this run"
  },
  {
+  "name": "FUN_009e53b0",
+  "address": "0x009E53B0",
+  "bytes": 46,
+  "gate": "optimization-rea-private-leaf_a",
+  "source": "src/game/optimization_rea_private_trials/leaf_a/FUN_009e53b0.c",
+  "publication_validation": "selected gate fingerprints and complete dual-image certificate checked",
+  "source_sha256": "f79a49b57a4618e35fc1623bf0a261042797b61d1cc5f025ffbe9114d3b64948",
+  "certificate_sha256": "bd1a97dd856762e3eb6306d9f52dfd9a5b909b39e3512cfae001817923bd3dfe"
+ },
+ {
   "name": "FUN_009e7530",
   "address": "0x009E7530",
   "bytes": 41,
@@ -6125,6 +6165,26 @@
   "gate": "npc-ai-private",
   "source": "src/game/npc_ai_private_trials/FUN_00a72d10.c",
   "publication_validation": "preserved from previous publication; not revalidated in this run"
+ },
+ {
+  "name": "FUN_00a7d5a0",
+  "address": "0x00A7D5A0",
+  "bytes": 46,
+  "gate": "optimization-rea-leaf_b",
+  "source": "src/game/optimization_rea_trials/leaf_b/FUN_00a7d5a0.c",
+  "publication_validation": "selected gate fingerprints and complete dual-image certificate checked",
+  "source_sha256": "92d6f85457a57a41ae4a052bb5fe10af16828bcc09c9fae7349f8c448834efe3",
+  "certificate_sha256": "c18ddf3fd4a53617fb36717a18dedbcd44e4fb624ff018d94075f1f78505fd3b"
+ },
+ {
+  "name": "FUN_00a7d6a0",
+  "address": "0x00A7D6A0",
+  "bytes": 39,
+  "gate": "optimization-rea-leaf_b",
+  "source": "src/game/optimization_rea_trials/leaf_b/FUN_00a7d6a0.c",
+  "publication_validation": "selected gate fingerprints and complete dual-image certificate checked",
+  "source_sha256": "b2cbaea5c72ed74aaa275a7c286e894547e345dd9286f2fc8b713d0a18b3876b",
+  "certificate_sha256": "c18ddf3fd4a53617fb36717a18dedbcd44e4fb624ff018d94075f1f78505fd3b"
  },
  {
   "name": "FUN_00a88bc0",
@@ -6950,6 +7010,16 @@
   "source": "src/game/player_movement_readable_ltcg.c",
   "line": 468,
   "publication_validation": "preserved from previous publication; not revalidated in this run"
+ },
+ {
+  "name": "FUN_00bf0e00",
+  "address": "0x00BF0E00",
+  "bytes": 46,
+  "gate": "optimization-rea-leaf_b",
+  "source": "src/game/optimization_rea_trials/leaf_b/FUN_00bf0e00.c",
+  "publication_validation": "selected gate fingerprints and complete dual-image certificate checked",
+  "source_sha256": "a7347cb44e9704567c3b1d5490248e62b57881a74d95d70ad0c71c394df5ced8",
+  "certificate_sha256": "c18ddf3fd4a53617fb36717a18dedbcd44e4fb624ff018d94075f1f78505fd3b"
  },
  {
   "name": "FUN_00bfbee0",
