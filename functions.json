@@ -906,6 +906,13 @@
   "source": "src/game/npc_ai_rea_next_e_trials/FUN_00567b30.c"
  },
  {
+  "name": "FUN_00567d00",
+  "address": "0x00567D00",
+  "bytes": 84,
+  "gate": "npc-ai-rea-next-e-private",
+  "source": "src/game/npc_ai_rea_next_e_trials/FUN_00567d00.c"
+ },
+ {
   "name": "FUN_00567d60",
   "address": "0x00567D60",
   "bytes": 29,
