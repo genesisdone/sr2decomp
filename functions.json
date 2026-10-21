@@ -329,6 +329,13 @@
   "line": 1001
  },
  {
+  "name": "FUN_004a6790",
+  "address": "0x004A6790",
+  "bytes": 398,
+  "gate": "npc-ai-rea-next-e-private",
+  "source": "src/game/npc_ai_rea_next_e_trials/FUN_004a6790.c"
+ },
+ {
   "name": "FUN_004a6920",
   "address": "0x004A6920",
   "bytes": 214,
