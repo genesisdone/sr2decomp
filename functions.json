@@ -170,6 +170,13 @@
   "line": 1281
  },
  {
+  "name": "FUN_004463d0",
+  "address": "0x004463D0",
+  "bytes": 134,
+  "gate": "npc-ai-rea-next-e-private",
+  "source": "src/game/npc_ai_rea_next_e_trials/FUN_004463d0.c"
+ },
+ {
   "name": "FUN_004543a0",
   "address": "0x004543A0",
   "bytes": 58,
@@ -848,6 +855,13 @@
   "bytes": 41,
   "gate": "npc-ai-rea-next-e-private",
   "source": "src/game/npc_ai_rea_next_e_trials/FUN_00567990.c"
+ },
+ {
+  "name": "FUN_005679c0",
+  "address": "0x005679C0",
+  "bytes": 185,
+  "gate": "npc-ai-rea-next-e-private",
+  "source": "src/game/npc_ai_rea_next_e_trials/FUN_005679c0.c"
  },
  {
   "name": "FUN_00567a80",
@@ -3278,11 +3292,25 @@
   "source": "src/game/traffic_rea_private_trials/calls_b/FUN_0090f1a0.c"
  },
  {
+  "name": "FUN_0090f240",
+  "address": "0x0090F240",
+  "bytes": 128,
+  "gate": "npc-ai-rea-next-e-private",
+  "source": "src/game/npc_ai_rea_next_e_trials/FUN_0090f240.c"
+ },
+ {
   "name": "FUN_0090f2c0",
   "address": "0x0090F2C0",
   "bytes": 198,
   "gate": "npc-ai-rea-next-e-private",
   "source": "src/game/npc_ai_rea_next_e_trials/FUN_0090f2c0.c"
+ },
+ {
+  "name": "FUN_0090f830",
+  "address": "0x0090F830",
+  "bytes": 199,
+  "gate": "npc-ai-rea-next-e-private",
+  "source": "src/game/npc_ai_rea_next_e_trials/FUN_0090f830.c"
  },
  {
   "name": "FUN_0090f900",
@@ -4723,6 +4751,13 @@
   "source": "src/game/npc_ai_private_trials/FUN_009ce060.c"
  },
  {
+  "name": "FUN_009cf8f0",
+  "address": "0x009CF8F0",
+  "bytes": 236,
+  "gate": "npc-ai-rea-next-e-private",
+  "source": "src/game/npc_ai_rea_next_e_trials/FUN_009cf8f0.c"
+ },
+ {
   "name": "FUN_009cfb30",
   "address": "0x009CFB30",
   "bytes": 84,
@@ -5210,6 +5245,13 @@
   "gate": "player-movement dual-linked LTCG",
   "source": "src/game/player_movement_readable_ltcg.c",
   "line": 2847
+ },
+ {
+  "name": "FUN_00ab51f0",
+  "address": "0x00AB51F0",
+  "bytes": 36,
+  "gate": "npc-ai-rea-next-e-private",
+  "source": "src/game/npc_ai_rea_next_e_trials/FUN_00ab51f0.c"
  },
  {
   "name": "FUN_00ab5280",
