@@ -3463,6 +3463,13 @@
   "line": 139
  },
  {
+  "name": "FUN_00917cf0",
+  "address": "0x00917CF0",
+  "bytes": 433,
+  "gate": "npc-ai-rea-next-e-private",
+  "source": "src/game/npc_ai_rea_next_e_trials/FUN_00917cf0.c"
+ },
+ {
   "name": "FUN_00918520",
   "address": "0x00918520",
   "bytes": 57,
@@ -5760,6 +5767,13 @@
   "bytes": 94,
   "gate": "cutscene-private",
   "source": "src/game/cutscene_private_trials/FUN_00b74120.c"
+ },
+ {
+  "name": "FUN_00b7b660",
+  "address": "0x00B7B660",
+  "bytes": 412,
+  "gate": "npc-ai-rea-next-e-private",
+  "source": "src/game/npc_ai_rea_next_e_trials/FUN_00b7b660.c"
  },
  {
   "name": "FUN_00b7c250",
